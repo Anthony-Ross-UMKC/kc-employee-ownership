@@ -244,8 +244,8 @@ where the care goes; the mechanics should be invisible.
 
 **Merge with `--merge`, never `--squash`.** Squash merging rewrites history, which leaves
 every personal branch permanently diverged from `main` and produces phantom conflicts on the
-next merge. A person who has never used version control cannot diagnose that, and it will
-happen to all four of them.
+next merge. The resulting conflicts look alarming and have no real cause, which is a bad
+thing to hand anyone in the middle of writing.
 
 **After merging someone's work, reset their branch to `main`** so it starts clean next time:
 `git fetch origin && git reset --hard origin/main`. Only do this immediately after their work
