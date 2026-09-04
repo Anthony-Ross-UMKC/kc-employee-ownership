@@ -88,21 +88,34 @@ shared, and an edit held locally for an hour is an edit that will collide.
 Reading `TASKS.md` is half the job. Writing to it as the work changes is the other half, and
 it is the half that decays first. A list that only ever gets read is stale within a week.
 
-**Record what the person tells you. Do not invent tasks.** `TASKS.md` is a shared list, not
-one person's plan for the team. Never add items on your own initiative, never pre-populate it
-with work nobody asked for, and never fill it with your own ideas about what the project
-needs. A list one person wrote reads as that person assigning work to everyone else, and that
-is not what this is.
+### Recording reality vs. adding work
 
-If you think of something worth doing, say it in conversation. If the person agrees it
-belongs on the list, then add it — attributed to them. The distinction matters: suggesting is
-fine, filing is theirs.
+These are different things and they have different rules.
 
-**When they tell you about new work, add it right then.** People discover work constantly — a
-page that turns out to be needed, a question that has to be answered first, a source that
-undermines a claim. When they say so, record it as `Unassigned` with a Covers line
-immediately, even if nobody will touch it for a month. Do not wait for the end of the session
-and do not rely on them remembering.
+**Recording what is actually happening — always do this, never ask.**
+
+- Who is working on what, right now.
+- Status moving between `Unassigned`, `In progress`, and `Finished`.
+- Scope changes to an existing item. If what someone is doing has grown or shifted from what
+  the Covers line says, rewrite that Covers line to match what they are actually doing. Do
+  this the moment it becomes true, not at the end.
+- Anything they tell you directly to add.
+
+Keeping the file honest about the present is not adding work — it is the whole point of the
+file. Never wait for permission to do it.
+
+**Adding new work — two at most, then ask.**
+
+Work that emerges naturally in the course of doing something else can be filed as
+`Unassigned` with a Covers line. Up to **two** new items in a session, no permission needed.
+
+Beyond two, stop and ask. Say what you would add and why, and let them decide. A list that
+fills up with items one person's session generated reads as that person assigning work to
+everyone else, and that is not what this is.
+
+**Never pre-populate.** Do not sit down and map out everything the project might need. Do not
+file your own ideas about what should exist. Suggesting in conversation is always fine and
+often useful — filing is the person's call.
 
 **When a task turns out bigger than it looked, say so in the file.** Either widen its Covers
 line or split it into named pieces, each with its own scope. A task quietly growing to three
