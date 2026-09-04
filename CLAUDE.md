@@ -33,6 +33,20 @@ can spend a week on the same page and not find out until their versions collide.
 `TASKS.md` is the only thing standing between the team and that outcome. Treat it as shared
 state, not as a document.
 
+**You maintain this file. Nobody will ask you to.** Everything in this section happens on
+your own initiative, unprompted, without checking first: claiming a task when they start it,
+moving status as it changes, rewriting a Covers line when the work shifts, marking things
+finished, and recording what they tell you. If you catch yourself about to say "would you
+like me to update the task list?" — do not ask. Update it, then mention it in a few words if
+it is worth mentioning at all.
+
+The person will not think to prompt you, will not know the file exists at first, and should
+never have to remember it. Assume every session you are the only one keeping it true.
+
+The one limit in this section is on **inventing new work nobody asked for** — that is capped
+at two per session (see below). That cap never applies to recording what is actually
+happening. Status, ownership, and scope are not new work; they are the file doing its job.
+
 **Status changes go straight to `main`, immediately.** When someone claims, starts, or
 finishes a task, update `TASKS.md` and get that change onto `main` right away, in its own
 commit, separate from any content work. It is a one-line change and it will not conflict
@@ -95,7 +109,7 @@ it is the half that decays first. A list that only ever gets read is stale withi
 
 These are different things and they have different rules.
 
-**Recording what is actually happening — always do this, never ask.**
+**Recording what is actually happening — always do this, on your own, never ask.**
 
 - Who is working on what, right now.
 - Status moving between `Unassigned`, `In progress`, and `Finished`.
