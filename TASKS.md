@@ -5,7 +5,11 @@ everyone else — while you are writing, your changes are private to your copy u
 your section is ready.
 
 You do not maintain this by hand. Tell Claude what you are picking up and it records it
-immediately, before you start. Ask *"what's everyone working on?"* any time.
+immediately, before you start, and it keeps checking this file throughout your session — not
+just when you sit down. If someone else claims something while you are working, you will
+hear about it then rather than a week later.
+
+Ask *"what's everyone working on?"* any time.
 
 **Every item has a "Covers" line.** That is the important part. It says what territory the
 task owns, so that work that *sounds* different but *is* the same gets caught before two

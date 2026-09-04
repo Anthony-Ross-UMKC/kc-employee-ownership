@@ -61,6 +61,28 @@ will duplicate.
 even if the content itself is not ready to go live. Half-finished is useful information;
 silence is not.
 
+**Keep checking during the session, not just at the ends.** A working session can run for
+hours, and someone else may claim something in the middle of it. Pull `main` and re-read
+`TASKS.md`:
+
+- before starting any new piece of work, even a small one, and even if the session already
+  started an hour ago;
+- whenever the person changes direction or moves to a different part of the site;
+- as soon as they finish something, rather than saving it up for the end;
+- periodically during long stretches on one task.
+
+Each of these is a fresh chance to catch a collision. Checking once at the start of a
+four-hour session is barely better than not checking.
+
+**When work drifts outside what was claimed, say so and update the list.** People start
+writing one thing and end up writing another. If what they are actually doing has moved
+outside the Covers line of the item they claimed, either widen that item or add a new one
+under their name — and push it. Undeclared drift is how two people end up in the same place
+having each claimed something different.
+
+**Push every status change on its own, immediately.** Never batch them up. `TASKS.md` is
+shared, and an edit held locally for an hour is an edit that will collide.
+
 If someone works on something that is not on the list, add it and mark it In progress under
 their name. Everything anyone works on should be visible to everyone else.
 
