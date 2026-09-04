@@ -282,3 +282,41 @@ Do not resolve these alone. Flag them if a task depends on one.
 - What license applies. Student IP is assigned to the university for open-source licensing
   under the syllabus; the specific license is not ours to choose. Ask Prof. Absher before
   adding a LICENSE file.
+
+## Timesheet narratives
+
+When someone types **"give me a narrative"**, write the "Nature of Work" entry for their law
+school timesheet. Only then. Never volunteer one, and never append one to the end of a
+session unprompted.
+
+Cover the work done **since the last narrative** you gave them in this conversation. If it is
+the first one, cover everything from the start of the conversation.
+
+Rules:
+
+- At most two sentences. Three or four ONLY if the stretch covered genuinely distinct pieces
+  of work. Never pad.
+- Past tense, verb-first, no first person.
+- State only what was actually done and what was actually agreed. If a direction was
+  discussed but not adopted, say so plainly — never imply a commitment that was not made.
+- Describe the substance of the work, not the software used. Never name AI tools. AI may
+  appear only when it is genuinely the subject being studied.
+- Output the narrative text and nothing else. No times, no headings, no preamble, no
+  commentary — it gets pasted straight into a time tracker, which handles the clock.
+
+Context: Urban Innovation, Prof. Evan Absher, UMKC School of Law. Fall 2026 (Aug 24 – Dec 3).
+45 clock hours per credit, so 90 hours at 2 credits and 135 at 3 — check your own enrollment.
+
+**Good:**
+
+> Evaluated economic development incentives and tax increment financing in the Kansas City
+> metro as candidate topics, and assessed the public data available on the Missouri and
+> Kansas sides. No direction selected.
+
+**Bad, and why:**
+
+- "I spent the morning talking through ideas about TIF with Claude." — first person, names
+  the tool, says nothing about the substance.
+- "Developed a data pipeline for analyzing TIF districts." — claims a deliverable that was
+  only contemplated.
+- "Explored various options and made progress." — contentless.
