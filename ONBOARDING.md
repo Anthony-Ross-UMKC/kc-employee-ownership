@@ -48,9 +48,8 @@ The setup is the only fiddly part. Once you're through it you never touch it aga
    > Clone https://github.com/Anthony-Ross-UMKC/kc-employee-ownership and set me up to work
    > on it. My name is [your name].
 
-5. The first time it saves anything, a browser window will ask you to sign in to GitHub. Use
-   the account from step 1 — **not** any other GitHub account you might have. Getting this
-   wrong is the most common way this goes sideways, and it cost Anthony an hour.
+5. The first time it saves anything, a browser window will ask you to sign in to GitHub. Sign
+   in with the account from step 1.
 
 If any of it fights you, stop and text the group rather than clicking through. It takes five
 minutes with someone else looking and an hour alone.
