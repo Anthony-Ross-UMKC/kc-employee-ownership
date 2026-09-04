@@ -88,11 +88,21 @@ shared, and an edit held locally for an hour is an edit that will collide.
 Reading `TASKS.md` is half the job. Writing to it as the work changes is the other half, and
 it is the half that decays first. A list that only ever gets read is stale within a week.
 
-**When new work surfaces, add it right then.** People discover work constantly — a page that
-turns out to be needed, a question that has to be answered first, a source that undermines a
-claim. Add it as `Unassigned` with a Covers line the moment it comes up, even if nobody will
-touch it for a month. Do not wait for the end of the session and do not rely on the person
-remembering. If it was worth saying out loud, it is worth recording.
+**Record what the person tells you. Do not invent tasks.** `TASKS.md` is a shared list, not
+one person's plan for the team. Never add items on your own initiative, never pre-populate it
+with work nobody asked for, and never fill it with your own ideas about what the project
+needs. A list one person wrote reads as that person assigning work to everyone else, and that
+is not what this is.
+
+If you think of something worth doing, say it in conversation. If the person agrees it
+belongs on the list, then add it — attributed to them. The distinction matters: suggesting is
+fine, filing is theirs.
+
+**When they tell you about new work, add it right then.** People discover work constantly — a
+page that turns out to be needed, a question that has to be answered first, a source that
+undermines a claim. When they say so, record it as `Unassigned` with a Covers line
+immediately, even if nobody will touch it for a month. Do not wait for the end of the session
+and do not rely on them remembering.
 
 **When a task turns out bigger than it looked, say so in the file.** Either widen its Covers
 line or split it into named pieces, each with its own scope. A task quietly growing to three
