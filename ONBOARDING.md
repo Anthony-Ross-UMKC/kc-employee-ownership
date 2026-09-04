@@ -1,57 +1,86 @@
 # Getting started
 
-For Camron, Kirby, and Mandy. Fifteen minutes, and you do not need to know how to code.
+For Camron, Kirby, and Mandy. You do not need to know how to code, and you will not be
+asked to type any commands.
 
 ## What this is
 
-A shared copy of the website we are building. Everyone works on their own copy, then merges
-changes into the main one. Nothing you do can break the live site, and nothing gets
-overwritten.
+We are building a website together. Everyone has their own copy to work in, so nothing you
+do can break the live site and nothing anyone else does can overwrite your work. Claude
+handles all of that behind the scenes — the saving, the syncing, putting your work live. You
+write and think; it does the plumbing.
 
-## One-time setup
+## Setting up
 
-1. Make a free account at **github.com** if you do not have one, and send Anthony your
-   username so he can add you.
-2. Accept the email invitation to the repository.
-3. Install **GitHub Desktop** (desktop.github.com) — this is the version without the command
-   line. Sign in, then File → Clone Repository → pick this one.
-4. Install **Claude Code** and point it at the folder GitHub Desktop created.
+The setup is the only fiddly part. Once you are through it you never touch it again.
 
-## Every time you work
+1. Make a free account at **github.com** if you do not have one, and send Anthony the
+   username you chose.
+2. Wait for an email inviting you to the project, and accept it.
+3. Install **Git** from git-scm.com. Accept every default. You will never use it directly —
+   Claude needs it installed in order to do the work for you.
+4. Install **Claude Code**, open it, and tell it:
 
-1. In GitHub Desktop, click **Fetch origin**, then **Pull** if there is anything to pull.
-2. Make sure you are on **your own branch**, not `main`. The branch selector is at the top.
-3. Do your work. Claude Code reads `CLAUDE.md` in this folder automatically and follows the
-   project rules.
-4. In GitHub Desktop, write a one-line summary and click **Commit**, then **Push origin**.
-5. Click **Create Pull Request** when a section is ready for the team.
+   > Clone https://github.com/Anthony-Ross-UMKC/kc-employee-ownership and set me up to work
+   > on it. My name is [your name].
 
-## Section ownership
+5. The first time it saves anything, a browser window will ask you to sign in to GitHub.
+   Sign in with the account from step 1 — **not** any other GitHub account you might have.
+   Getting this wrong is the most common way this goes sideways.
 
-To keep everyone out of each other's way, each of us owns specific files. Confirm these
-before starting — they are a proposal, not settled.
+If any of that fights you, stop and text Anthony rather than clicking through. Sorting it
+out takes five minutes with someone else looking and an hour alone.
 
-| Person  | Branch    | Files                                    |
-| ------- | --------- | ---------------------------------------- |
-| Anthony | `anthony` | `pages/intake.html`, `assets/intake.js`  |
-| Camron  | `camron`  | `pages/esop.html`                        |
-| Kirby   | `kirby`   | `pages/eot-and-co-ops.html`              |
-| Mandy   | `mandy`   | `pages/resources.html`                   |
+## Working
 
-`index.html` and `assets/style.css` are shared. Say something in the team chat before
-editing either, so two people are not in them at once.
+Open Claude Code in the project folder and say what you want to work on. That is the whole
+process.
+
+Things you can just say:
+
+> What's changed since I last worked on this?
+
+> I want to add a section on vesting to my page.
+
+> Is this wording okay, or does it sound like legal advice?
+
+> Find me a source for this number.
+
+> I'm done for today.
+
+> My section is ready for the team.
+
+That last one puts your work on the live site. Everything before it is private to your copy.
+
+## Who owns what
+
+So we stay out of each other's way, each of us writes in our own files. Confirm these before
+starting — it is a proposal, not settled.
+
+| Person  | Writes                                            |
+| ------- | ------------------------------------------------- |
+| Anthony | The intake questionnaire                          |
+| Camron  | Employee stock ownership plans (ESOPs)            |
+| Kirby   | Ownership trusts and worker cooperatives          |
+| Mandy   | Local resources and partner organizations         |
+
+The homepage and the site's styling are shared. Say something to the group before changing
+either, so two people are not in them at once.
 
 ## Two rules that matter more than the rest
 
 **Nothing on this site tells a reader what to do.** We inform; we do not advise.
 Unauthorized practice of law is a real constraint on this project. If something you write
-starts sounding like advice to a specific business, flag it.
+starts to sound like advice to a particular business, flag it — or just ask Claude whether
+it crosses the line.
 
-**Every fact needs a source.** Every number, dollar figure, and legal statement has to have
-an entry in `SOURCES.md`. Do not reuse the figures from the project brief — they have not
-been verified. If you cannot source it, leave `[NEEDS SOURCE]` and note it in the changelog.
+**Every fact needs a source.** Every number, dollar figure, and legal statement has to be
+traceable to something. Do not reuse the figures from the project brief — none of them have
+been verified, and under the syllabus each of us is responsible for every number we publish.
+If you cannot source it, leave it out and say so.
 
 ## If something goes wrong
 
-Do not try to fix it by deleting things. Push what you have to your own branch and tell
-Anthony. Nothing is ever lost — that is the point of the repository.
+Tell Claude what happened and let it fix it. If it cannot, tell Anthony. Nothing is ever
+lost — that is the entire point of how this is set up. Do not try to fix it by deleting
+things.
