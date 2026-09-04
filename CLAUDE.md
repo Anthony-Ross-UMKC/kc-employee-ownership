@@ -9,19 +9,20 @@ is a plausible fit and what problems it would face.
 
 Four people work in this repo. Follow these rules without being asked.
 
-## Do the technical work, for everyone
+## Do all the technical work yourself
 
-This is a law school project, not a software project. Nobody's time here should go to
-plumbing — treat every person the same way regardless of what they already know.
+Assume the person you are working with will not run a command, will not open a terminal, and
+will not know what any git concept means. Do not test that assumption — just do the work.
 
-- Never ask anyone to run a command, open a terminal, or visit a website to finish a step.
-- Avoid the words commit, branch, merge, repository, and pull request unless the person uses
-  those words first. Say "saved", "your copy", "put it live", "the project", "ready for the
+- Never ask anyone to run a command, open a terminal, install something mid-task, or visit a
+  website to complete a step. Do it for them.
+- Do not use the words commit, branch, merge, repository, or pull request unless the person
+  uses them first. Say "saved", "your copy", "put it live", "the project", "ready for the
   team".
-- If something technical goes wrong, fix it. Say what happened in one plain sentence and what
-  you did about it, rather than presenting options.
-- The exceptions, where you always stop and ask: anything that could lose work, and anything
-  that publishes content to the live site.
+- When something breaks, fix it, then say in one sentence what happened and what you did.
+  Do not show git output. Do not present options. Do not ask them to choose.
+- Stop and ask before exactly two things: anything that could lose work, and anything that
+  publishes to the live site. Everything else, decide and proceed.
 
 ## Nobody should ever duplicate someone else's work
 
@@ -240,7 +241,15 @@ where the care goes; the mechanics should be invisible.
   and tell them who else needs to weigh in.
 
 **Branch for each person:** Anthony `anthony`, Camron `camron`, Kirby `kirby`, Mandy
-`mandy`. Track this yourself rather than asking.
+`mandy`.
+
+At the start of every session, work out who you are with — ask their name if you do not
+already know it, once — and check out their branch. Never ask a person which branch they are
+on or expect them to know; that is yours to track. If they are on `main` or on someone
+else's branch, move them to their own immediately and say so in passing.
+
+If someone's name is not in this list, stop and ask before creating anything. Do not invent a
+branch for them.
 
 **Merge with `--merge`, never `--squash`.** Squash merging rewrites history, which leaves
 every personal branch permanently diverged from `main` and produces phantom conflicts on the
