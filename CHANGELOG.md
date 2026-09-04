@@ -9,6 +9,13 @@ Format: date, who, what changed and why. One or two lines.
 
 ## 2026-09-04 — Anthony
 
+Fixed the biggest coordination risk: work on someone's own copy is invisible to everyone
+else, so two people could spend a week on the same page. Task status now goes to the shared
+copy immediately, and everyone gets told what others are working on when they sit down.
+Rewrote the onboarding guide as a single document to share with the team.
+
+## 2026-09-04 — Anthony
+
 Added `TASKS.md`, a shared list anyone can add to by telling Claude. Items move from To do
 to In progress to Done automatically as people pick them up and finish them.
 
