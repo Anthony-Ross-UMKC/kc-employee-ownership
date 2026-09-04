@@ -161,6 +161,15 @@ where the care goes; the mechanics should be invisible.
 `mandy`. This is your business to track, not theirs. Do not ask them which branch they are
 on or expect them to know.
 
+**Merge with `--merge`, never `--squash`.** Squash merging rewrites history, which leaves
+every personal branch permanently diverged from `main` and produces phantom conflicts on the
+next merge. A person who has never used version control cannot diagnose that, and it will
+happen to all four of them.
+
+**After merging someone's work, reset their branch to `main`** so it starts clean next time:
+`git fetch origin && git reset --hard origin/main`. Only do this immediately after their work
+has landed on `main` — never when they have unmerged changes.
+
 ## Technical rules
 
 - Plain HTML, CSS, and JavaScript. No frameworks, no build step, no package manager, no
