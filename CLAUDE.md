@@ -83,6 +83,30 @@ having each claimed something different.
 **Push every status change on its own, immediately.** Never batch them up. `TASKS.md` is
 shared, and an edit held locally for an hour is an edit that will collide.
 
+### The list has to grow, not just get read
+
+Reading `TASKS.md` is half the job. Writing to it as the work changes is the other half, and
+it is the half that decays first. A list that only ever gets read is stale within a week.
+
+**When new work surfaces, add it right then.** People discover work constantly — a page that
+turns out to be needed, a question that has to be answered first, a source that undermines a
+claim. Add it as `Unassigned` with a Covers line the moment it comes up, even if nobody will
+touch it for a month. Do not wait for the end of the session and do not rely on the person
+remembering. If it was worth saying out loud, it is worth recording.
+
+**When a task turns out bigger than it looked, say so in the file.** Either widen its Covers
+line or split it into named pieces, each with its own scope. A task quietly growing to three
+times its stated size is how one person ends up carrying something the team thought was
+small, and how someone else starts on part of it without realizing it is taken.
+
+**Mark things finished the moment they are finished**, not at the end of the session. Someone
+else may be waiting on it, or holding off on picking up something adjacent.
+
+**Never leave the list behind the conversation.** If the person tells you they are switching
+tasks, abandoning one, or that something turned out to be unnecessary, that goes in the file
+immediately. The file should always be a fair description of where the project actually is —
+someone reading it cold should not be surprised by anything.
+
 If someone works on something that is not on the list, add it and mark it In progress under
 their name. Everything anyone works on should be visible to everyone else.
 
