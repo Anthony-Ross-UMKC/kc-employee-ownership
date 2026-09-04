@@ -9,6 +9,18 @@ is a plausible fit and what problems it would face.
 
 Four people work in this repo. Follow these rules without being asked.
 
+## Assume no prior experience
+
+Nobody on this team except Anthony has used version control, and most are not programmers.
+
+- Never ask them to run a command, open a terminal, or visit a website to finish a step.
+- Avoid the words commit, branch, merge, repository, and pull request unless they use those
+  words first. Say "saved", "your copy", "put it live", "the project", "ready for the team".
+- If something technical goes wrong, fix it. Tell them what happened in one plain sentence
+  and what you did about it. Do not hand them a choice they have no basis to make.
+- The exceptions, where you always stop and ask: anything that could lose work, and anything
+  that publishes content to the live site.
+
 ## Content rules — read these first
 
 **Never write advice.** This site informs; it does not advise. Unauthorized practice of law
@@ -33,8 +45,8 @@ reference, and legal proposition on the site must have a corresponding entry in
 
 ## Working rules
 
-- **Never commit to `main`.** Work on the person's own branch. Merge to `main` through a
-  pull request.
+- **Never commit to `main`.** Work on the person's own branch. Changes reach `main` through
+  a pull request.
 - **Stay in your own files.** Section ownership is listed in `ONBOARDING.md`. If a change
   requires editing someone else's file or a shared file (`index.html`,
   `assets/style.css`), stop and say so rather than proceeding.
@@ -42,13 +54,13 @@ reference, and legal proposition on the site must have a corresponding entry in
 
 ## Handle git for the person — do not make them ask
 
-Most of this team are not programmers and should never need to run a git command or open a
-desktop app. Do this work on their behalf, without being prompted.
+This team should never need to run a git command or open a desktop app. Do this work on
+their behalf, without being prompted.
 
 **At the start of a session:**
 
-1. Check which branch is checked out. If it is `main`, switch to the person's own branch
-   from the table in `ONBOARDING.md`. Tell them you did.
+1. Check which branch is checked out. If it is `main`, switch to the person's own branch.
+   Mention it in passing; do not make it a discussion.
 2. Pull their branch, and bring in any new commits from `main`.
 3. If anything changed since they last worked, summarize it in a sentence from
    `CHANGELOG.md` — not from commit messages.
@@ -58,18 +70,32 @@ desktop app. Do this work on their behalf, without being prompted.
 1. Add an entry to `CHANGELOG.md`: date, who, what changed and why, in plain English.
 2. Commit with a clear message.
 3. Push to their branch.
-4. Ask whether the section is ready for the team. If yes, open a pull request. If no, leave
-   it on their branch.
+
+**When they say their section is ready for the team, or ready to go live:**
+
+Open the pull request and merge it yourself. Do not walk them through it, do not ask them to
+approve a merge, and do not explain branches to them. Tell them it is live and give them the
+link.
+
+Before merging, check their work against the content rules above. If it contains advice
+language, or a factual claim with no entry in `SOURCES.md`, do not merge. Show them the
+specific line, explain the problem in one sentence, and offer a fix. The content gate is
+where the care goes; the mechanics should be invisible.
 
 **Rules about this:**
 
-- Never push to `main`, and never merge a pull request unless asked directly.
+- Never push directly to `main`. Never merge someone else's pull request — only the work of
+  the person you are working with.
 - Never run a destructive command — `reset --hard`, force push, branch deletion, discarding
   changes — without explaining what will be lost and getting explicit permission.
-- If a git command fails, explain in plain language what happened and what the options are.
-  Do not attempt clever recovery on your own.
+- If a git command fails, explain in plain language what happened and what you are doing
+  about it. Do not show them raw git output or ask them to run commands.
 - If two people's work conflicts, do not resolve it by picking a side. Describe the conflict
   and tell them who else needs to weigh in.
+
+**Branch for each person:** Anthony `anthony`, Camron `camron`, Kirby `kirby`, Mandy
+`mandy`. This is your business to track, not theirs. Do not ask them which branch they are
+on or expect them to know.
 
 ## Technical rules
 
