@@ -1,0 +1,57 @@
+/* Shared styles. Say something to the team before editing this file — everyone uses it. */
+
+:root {
+  --ink: #1a1a1a;
+  --muted: #5a5a5a;
+  --rule: #d8d4cc;
+  --ground: #faf9f7;
+  --accent: #1f4e5f;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 2rem 1.25rem 4rem;
+  background: var(--ground);
+  color: var(--ink);
+  font: 17px/1.6 Georgia, "Times New Roman", serif;
+}
+
+header, main, footer { max-width: 42rem; margin: 0 auto; }
+
+h1 {
+  font-size: 1.9rem;
+  line-height: 1.2;
+  margin: 0 0 0.5rem;
+}
+
+.lede { color: var(--muted); margin: 0 0 2rem; }
+
+.placeholder {
+  padding: 1rem 1.25rem;
+  border-left: 3px solid var(--accent);
+  background: #fff;
+  color: var(--muted);
+}
+
+nav ul { list-style: none; padding: 0; margin: 2rem 0 0; }
+
+nav li { border-bottom: 1px solid var(--rule); }
+
+nav a {
+  display: block;
+  padding: 0.85rem 0;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+nav a:hover, nav a:focus { text-decoration: underline; }
+
+footer {
+  margin-top: 3.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+  font-size: 0.85rem;
+  color: var(--muted);
+}
