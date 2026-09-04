@@ -55,3 +55,12 @@ footer {
   font-size: 0.85rem;
   color: var(--muted);
 }
+
+.breadcrumb {
+  margin: 0 0 1.5rem;
+  font-size: 0.85rem;
+}
+
+.breadcrumb a { color: var(--muted); text-decoration: none; }
+
+.breadcrumb a:hover, .breadcrumb a:focus { text-decoration: underline; }
