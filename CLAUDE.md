@@ -46,6 +46,17 @@ with anything. Do not let a claim sit on a branch — a claim nobody can see is 
 **When they begin work:** move the item to In progress with their name and today's date, and
 push that to `main` before doing anything else. Even if they are only exploring.
 
+**Check scope, not titles.** Every item has a **Covers** line describing the territory it
+owns. Before someone starts anything, compare what they describe against those Covers lines,
+not against the task titles. Two people will describe the same work in different words —
+"write the ESOP page" and "explain how vesting works" sound like separate tasks and are not.
+If what they want to do falls inside someone else's Covers line, say so before they begin.
+
+**Every item needs a Covers line, including new ones.** When adding a task, write one:
+what the item includes, and the kind of work that belongs to it. Make it broad enough that an
+adjacent idea gets recognized as overlapping. A task with a vague scope is a task two people
+will duplicate.
+
 **When they finish, or stop for the day:** update the item's status and push that to `main`,
 even if the content itself is not ready to go live. Half-finished is useful information;
 silence is not.
