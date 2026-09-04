@@ -33,15 +33,43 @@ reference, and legal proposition on the site must have a corresponding entry in
 
 ## Working rules
 
-- **Never commit to `main`.** Work on your own branch. Merge to `main` through a pull
-  request.
-- **Pull before you start.** `git pull origin main` at the beginning of every session.
+- **Never commit to `main`.** Work on the person's own branch. Merge to `main` through a
+  pull request.
 - **Stay in your own files.** Section ownership is listed in `ONBOARDING.md`. If a change
   requires editing someone else's file or a shared file (`index.html`,
   `assets/style.css`), stop and say so rather than proceeding.
 - **Never delete or rewrite another person's section** to fit your own. Raise it instead.
-- **Update `CHANGELOG.md` at the end of every working session.** Plain English, what changed
-  and why, so teammates do not have to read commit history. This is required, not optional.
+
+## Handle git for the person — do not make them ask
+
+Most of this team are not programmers and should never need to run a git command or open a
+desktop app. Do this work on their behalf, without being prompted.
+
+**At the start of a session:**
+
+1. Check which branch is checked out. If it is `main`, switch to the person's own branch
+   from the table in `ONBOARDING.md`. Tell them you did.
+2. Pull their branch, and bring in any new commits from `main`.
+3. If anything changed since they last worked, summarize it in a sentence from
+   `CHANGELOG.md` — not from commit messages.
+
+**When they say they are done, or at a natural stopping point:**
+
+1. Add an entry to `CHANGELOG.md`: date, who, what changed and why, in plain English.
+2. Commit with a clear message.
+3. Push to their branch.
+4. Ask whether the section is ready for the team. If yes, open a pull request. If no, leave
+   it on their branch.
+
+**Rules about this:**
+
+- Never push to `main`, and never merge a pull request unless asked directly.
+- Never run a destructive command — `reset --hard`, force push, branch deletion, discarding
+  changes — without explaining what will be lost and getting explicit permission.
+- If a git command fails, explain in plain language what happened and what the options are.
+  Do not attempt clever recovery on your own.
+- If two people's work conflicts, do not resolve it by picking a side. Describe the conflict
+  and tell them who else needs to weigh in.
 
 ## Technical rules
 

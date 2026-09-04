@@ -10,21 +10,40 @@ overwritten.
 
 ## One-time setup
 
+The setup is the only fiddly part. Once you are through it, you never touch it again.
+
 1. Make a free account at **github.com** if you do not have one, and send Anthony your
    username so he can add you.
 2. Accept the email invitation to the repository.
-3. Install **GitHub Desktop** (desktop.github.com) — this is the version without the command
-   line. Sign in, then File → Clone Repository → pick this one.
-4. Install **Claude Code** and point it at the folder GitHub Desktop created.
+3. Install **Git** from git-scm.com. Accept every default. You will never type a git
+   command — Claude needs it installed to do the work for you.
+4. Install **Claude Code**, open it, and tell it:
+   *"Clone https://github.com/Anthony-Ross-UMKC/kc-employee-ownership and set me up on the
+   [your name] branch."*
+5. The first time it uploads anything, a browser window will ask you to sign in to GitHub.
+   Sign in with the account from step 1 — **not** any other GitHub account you may have.
+
+If any of that fights you, stop and ask Anthony rather than clicking through. Sorting it out
+takes five minutes with someone else looking; it takes an hour alone.
 
 ## Every time you work
 
-1. In GitHub Desktop, click **Fetch origin**, then **Pull** if there is anything to pull.
-2. Make sure you are on **your own branch**, not `main`. The branch selector is at the top.
-3. Do your work. Claude Code reads `CLAUDE.md` in this folder automatically and follows the
-   project rules.
-4. In GitHub Desktop, write a one-line summary and click **Commit**, then **Push origin**.
-5. Click **Create Pull Request** when a section is ready for the team.
+Open Claude Code in the project folder and say what you want to work on. That is the whole
+process. It reads the project rules automatically and handles the rest — getting the latest
+version before you start, saving and uploading your work when you finish, and putting your
+section forward for the team when it is ready.
+
+Things you can just say:
+
+- *"What's changed since I last worked on this?"*
+- *"I want to add a section on vesting to my page."*
+- *"Is this wording okay, or does it sound like legal advice?"*
+- *"I'm done for today."*
+- *"My section is ready for the team."*
+
+You never need to run a command or use the GitHub website. If you would like to see your
+changes visually, **GitHub Desktop** (desktop.github.com) shows them side by side — but it
+is optional and nothing requires it.
 
 ## Section ownership
 
