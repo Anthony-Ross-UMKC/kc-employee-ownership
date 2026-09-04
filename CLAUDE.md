@@ -19,8 +19,15 @@ will not know what any git concept means. Do not test that assumption — just d
 - Do not use the words commit, branch, merge, repository, or pull request unless the person
   uses them first. Say "saved", "your copy", "put it live", "the project", "ready for the
   team".
-- When something breaks, fix it, then say in one sentence what happened and what you did.
-  Do not show git output. Do not present options. Do not ask them to choose.
+- When something breaks, explain it in plain terms — what happened, what it affects, and
+  what you would do about it. Do not show raw git output, and do not use jargon to describe
+  the problem.
+  - If the fix is safe and reversible and there is only one sensible option, do it and say
+    in one sentence what happened and what you did.
+  - If there is a real choice to make, lay out the options in plain language, say which you
+    would pick and why, and let them decide.
+  - If the answer affects someone else's work, or you are not confident, say so and suggest
+    asking the group before acting.
 - Stop and ask before exactly two things: anything that could lose work, and anything that
   publishes to the live site. Everything else, decide and proceed.
 
@@ -54,9 +61,9 @@ Thirty seconds on one of those is worth it. Everything else, act.
 Everyone on the team knows this file exists and may ask you about it. Answer them, and keep
 maintaining it regardless.
 
-The one limit in this section is on **inventing new work nobody asked for** — that is capped
-at two per session (see below). That cap never applies to recording what is actually
-happening. Status, ownership, and scope are not new work; they are the file doing its job.
+The one limit in this section is on **inventing new work nobody asked for** — see below.
+That limit never applies to recording what is actually happening. Status, ownership, and
+scope are not new work; they are the file doing its job.
 
 **Status changes go straight to `main`, immediately.** When someone claims, starts, or
 finishes a task, update `TASKS.md` and get that change onto `main` right away, in its own
@@ -78,7 +85,13 @@ push that to `main` before doing anything else. Even if they are only exploring.
 owns. Before someone starts anything, compare what they describe against those Covers lines,
 not against the task titles. Two people will describe the same work in different words —
 "write the ESOP page" and "explain how vesting works" sound like separate tasks and are not.
-If what they want to do falls inside someone else's Covers line, say so before they begin.
+
+**When there might be an overlap, flag it before they start.** Name the item, name who has
+it, and say specifically where you think the two touch. Then suggest they check with that
+person about what each of them is covering, so the boundary gets settled between them rather
+than guessed at. Do not decide for them that it is fine, and do not decide for them that it
+is a conflict — surface it and let the two people sort it out. A borderline case is worth
+raising even if you turn out to be wrong; an unraised one costs somebody a week.
 
 **Every item needs a Covers line, including new ones.** When adding a task, write one:
 what the item includes, and the kind of work that belongs to it. Make it broad enough that an
@@ -131,15 +144,6 @@ These are different things and they have different rules.
 
 Keeping the file honest about the present is not adding work — it is the whole point of the
 file. Never wait for permission to do it.
-
-**Adding new work — two at most, then ask.**
-
-Work that emerges naturally in the course of doing something else can be filed as
-`Unassigned` with a Covers line. Up to **two** new items in a session, no permission needed.
-
-Beyond two, stop and ask. Say what you would add and why, and let them decide. A list that
-fills up with items one person's session generated reads as that person assigning work to
-everyone else, and that is not what this is.
 
 **Never pre-populate.** Do not sit down and map out everything the project might need. Do not
 file your own ideas about what should exist. Suggesting in conversation is always fine and
@@ -317,41 +321,3 @@ Do not resolve these alone. Flag them if a task depends on one.
 - What license applies. Student IP is assigned to the university for open-source licensing
   under the syllabus; the specific license is not ours to choose. Ask Prof. Absher before
   adding a LICENSE file.
-
-## Timesheet narratives
-
-When someone types **"give me a narrative"**, write the "Nature of Work" entry for their law
-school timesheet. Only then. Never volunteer one, and never append one to the end of a
-session unprompted.
-
-Cover the work done **since the last narrative** you gave them in this conversation. If it is
-the first one, cover everything from the start of the conversation.
-
-Rules:
-
-- At most two sentences. Three or four ONLY if the stretch covered genuinely distinct pieces
-  of work. Never pad.
-- Past tense, verb-first, no first person.
-- State only what was actually done and what was actually agreed. If a direction was
-  discussed but not adopted, say so plainly — never imply a commitment that was not made.
-- Describe the substance of the work, not the software used. Never name AI tools. AI may
-  appear only when it is genuinely the subject being studied.
-- Output the narrative text and nothing else. No times, no headings, no preamble, no
-  commentary — it gets pasted straight into a time tracker, which handles the clock.
-
-Context: Urban Innovation, Prof. Evan Absher, UMKC School of Law. Fall 2026 (Aug 24 – Dec 3).
-45 clock hours per credit, so 90 hours at 2 credits and 135 at 3 — check your own enrollment.
-
-**Good:**
-
-> Evaluated economic development incentives and tax increment financing in the Kansas City
-> metro as candidate topics, and assessed the public data available on the Missouri and
-> Kansas sides. No direction selected.
-
-**Bad, and why:**
-
-- "I spent the morning talking through ideas about TIF with Claude." — first person, names
-  the tool, says nothing about the substance.
-- "Developed a data pipeline for analyzing TIF districts." — claims a deliverable that was
-  only contemplated.
-- "Explored various options and made progress." — contentless.
