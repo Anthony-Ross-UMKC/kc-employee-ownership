@@ -188,6 +188,9 @@ goes; the mechanics should be invisible.
   dependencies — this keeps the repo readable by non-programmers and merge conflicts rare.
 - One page per file in `pages/`. Shared styles in `assets/style.css`. Keep files small; a
   long file is a file two people will collide in.
+- The site has no fixed structure yet — what pages exist is the team's decision. When someone
+  writes something new, create the page and add a link to it on the homepage. `index.html` is
+  shared, so say so when you edit it.
 - No analytics, trackers, or third-party embeds without the team agreeing first.
 - The intake runs entirely in the browser. Do not send a visitor's answers anywhere, do not
   store them, and do not add a backend without the team deciding to.
