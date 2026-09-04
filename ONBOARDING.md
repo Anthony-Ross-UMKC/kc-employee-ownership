@@ -13,19 +13,12 @@ Not a paper. The site is the deliverable.
 
 ## How the work is split
 
-We each write our own sections so we're never editing the same thing at the same time.
+Not settled — that's a group decision. The one thing that matters mechanically is that we
+each write in different files, so two people are never editing the same thing at once. Say
+what you're picking up and Claude records it.
 
-| Person  | Writes                                            |
-| ------- | ------------------------------------------------- |
-| Anthony | The intake questionnaire                          |
-| Camron  | Employee stock ownership plans (ESOPs)            |
-| Kirby   | Ownership trusts and worker cooperatives          |
-| Mandy   | Local resources and partner organizations         |
-
-Confirm these before starting — it's a proposal, not settled.
-
-The homepage and the site's styling are shared. Say something to the group before changing
-either.
+The homepage and the site's styling are shared by everyone. Say something to the group
+before changing either.
 
 ## Nobody should do the same work twice
 
