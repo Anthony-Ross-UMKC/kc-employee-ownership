@@ -211,6 +211,5 @@ Flag them if a task depends on one.
 - Who operates the site (UMKC Law with faculty supervision, a partner organization, or
   standalone) — this changes the unauthorized practice analysis.
 - What the intake asks and what it outputs.
-- Whether the site supplements or replaces the course's Final Report.
 - What license applies. Student IP is assigned to the university for open-source licensing;
   the choice is not ours. Ask Prof. Absher before adding a LICENSE file.
