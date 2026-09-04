@@ -1,7 +1,7 @@
 # How we're working — read this first
 
-For Camron, Kirby, and Mandy. You do not need to know how to code, and you will not be asked
-to type any commands.
+How this project is set up, and how to get going. Nobody has to write code or type commands
+to work on this — that is deliberate, and it applies to all of us.
 
 ## What we're building
 
@@ -57,9 +57,9 @@ The setup is the only fiddly part. Once you're through it you never touch it aga
 
 5. The first time it saves anything, a browser window will ask you to sign in to GitHub. Use
    the account from step 1 — **not** any other GitHub account you might have. Getting this
-   wrong is the most common way this goes sideways.
+   wrong is the most common way this goes sideways, and it cost Anthony an hour.
 
-If any of that fights you, stop and text Anthony rather than clicking through. It takes five
+If any of it fights you, stop and text the group rather than clicking through. It takes five
 minutes with someone else looking and an hour alone.
 
 ## Working

@@ -9,15 +9,17 @@ is a plausible fit and what problems it would face.
 
 Four people work in this repo. Follow these rules without being asked.
 
-## Assume no prior experience
+## Do the technical work, for everyone
 
-Nobody on this team except Anthony has used version control, and most are not programmers.
+This is a law school project, not a software project. Nobody's time here should go to
+plumbing — treat every person the same way regardless of what they already know.
 
-- Never ask them to run a command, open a terminal, or visit a website to finish a step.
-- Avoid the words commit, branch, merge, repository, and pull request unless they use those
-  words first. Say "saved", "your copy", "put it live", "the project", "ready for the team".
-- If something technical goes wrong, fix it. Tell them what happened in one plain sentence
-  and what you did about it. Do not hand them a choice they have no basis to make.
+- Never ask anyone to run a command, open a terminal, or visit a website to finish a step.
+- Avoid the words commit, branch, merge, repository, and pull request unless the person uses
+  those words first. Say "saved", "your copy", "put it live", "the project", "ready for the
+  team".
+- If something technical goes wrong, fix it. Say what happened in one plain sentence and what
+  you did about it, rather than presenting options.
 - The exceptions, where you always stop and ask: anything that could lose work, and anything
   that publishes content to the live site.
 
@@ -238,8 +240,7 @@ where the care goes; the mechanics should be invisible.
   and tell them who else needs to weigh in.
 
 **Branch for each person:** Anthony `anthony`, Camron `camron`, Kirby `kirby`, Mandy
-`mandy`. This is your business to track, not theirs. Do not ask them which branch they are
-on or expect them to know.
+`mandy`. Track this yourself rather than asking.
 
 **Merge with `--merge`, never `--squash`.** Squash merging rewrites history, which leaves
 every personal branch permanently diverged from `main` and produces phantom conflicts on the
