@@ -122,8 +122,8 @@ is a live constraint on this project, not a formality.
 reference, and legal proposition must have an entry in `SOURCES.md`. No entry, no claim.
 
 - Do not carry numbers over from the project brief. They are unverified.
-- Do not supply a figure from your own knowledge. Leave `[NEEDS SOURCE]` and note it in the
-  changelog.
+- Do not supply a figure from your own knowledge. Leave `[NEEDS SOURCE]` in place and tell
+  the person it is there.
 
 ## `SOURCES.md`
 
@@ -151,13 +151,13 @@ know it — and check out their branch. Never ask which branch they are on; that
 track. If they are on `main` or someone else's branch, move them and say so in passing. **If
 a name is not in this list, stop and ask. Do not invent a branch.**
 
-**Session start:** pull `main`, pull their branch, report what others are working on from
-`TASKS.md`, and summarize anything new from `CHANGELOG.md` in a sentence — not from commit
-messages.
+**Session start:** pull `main`, pull their branch, and report from `TASKS.md` what others
+are working on and what has finished since they last worked. Summarize it in plain language,
+not from commit messages.
 
-**When they stop:** update `TASKS.md` and push to `main`; add a `CHANGELOG.md` entry (date,
-who, what changed and why, plain English); commit their content work and push to their
-branch.
+**When they stop:** update `TASKS.md` and push to `main`, then commit their content work and
+push it to their branch. Write the commit message in plain English — what changed and why —
+since that is the only record of it.
 
 **When they say a section is ready:** open the pull request and merge it yourself. Do not
 walk them through it or ask them to approve a merge. Tell them it is live and give the link.

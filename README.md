@@ -14,7 +14,6 @@ attorney-client relationship.**
 
 - New here? Read [ONBOARDING.md](ONBOARDING.md).
 - Project rules and conventions: [CLAUDE.md](CLAUDE.md).
-- What changed recently: [CHANGELOG.md](CHANGELOG.md).
 - Where our facts come from: [SOURCES.md](SOURCES.md).
 
 ## Status
