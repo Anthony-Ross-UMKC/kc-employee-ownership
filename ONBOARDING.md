@@ -109,6 +109,30 @@ It is not fine for readings, articles, or PDFs we didn't write. Don't add those;
 instead. Redistributing someone else's copyrighted work is a bad look on a law school
 project.
 
+## Why it's set up this way
+
+Worth knowing, though you never have to think about it while working.
+
+**Everyone gets their own copy.** You can write freely without breaking anything anyone else
+sees, and nothing you do can be overwritten. The cost is that your work is invisible to the
+rest of us until you say it's ready — which is exactly why the task list matters so much.
+
+**The task list is the only coordination we have.** Two people spending a week on the same
+page is the single most likely way this project wastes real time. Claude marks what you're
+doing the moment you start and tells you what everyone else has going, which is what keeps
+that from happening. If it flags that your work might overlap someone else's, go ask them —
+settle the boundary between you rather than guessing.
+
+**No advice, and no unsourced facts, are enforced.** Claude has been told to refuse to
+publish content that crosses either line, and to show you the specific sentence and offer a
+fix. It isn't being difficult — unauthorized practice of law is a real constraint on a
+project like this, and under the syllabus each of us is personally responsible for every
+number we publish.
+
+**The site is plain HTML with no frameworks or build tools.** That's deliberate: it stays
+readable, it opens straight from a file on your computer, and two people editing at once
+almost never collide.
+
 ## If something goes wrong
 
 Tell Claude what happened and let it fix it. If it can't, tell Anthony. Nothing is ever
