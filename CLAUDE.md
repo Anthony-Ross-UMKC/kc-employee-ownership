@@ -52,6 +52,20 @@ reference, and legal proposition on the site must have a corresponding entry in
   `assets/style.css`), stop and say so rather than proceeding.
 - **Never delete or rewrite another person's section** to fit your own. Raise it instead.
 
+## Keep `TASKS.md` current
+
+`TASKS.md` is the team's shared list. Anyone can add to it, and nobody should have to edit
+it by hand.
+
+- When someone says to add a task, put it under **To do** with `*(added by [name])*`.
+- When someone starts work that matches an item, move it to **In progress** and note who is
+  on it. Do this without being asked — starting the work is the signal.
+- When the work is done, move it to **Done** with the date and who did it.
+- Before editing this file, always pull first, and push promptly afterward. Four people share
+  it, and a stale copy is how two people's edits collide.
+- If an item is already **In progress** under someone else's name, say so before starting it.
+  Do not silently take over another person's task.
+
 ## Handle git for the person — do not make them ask
 
 This team should never need to run a git command or open a desktop app. Do this work on
@@ -67,9 +81,10 @@ their behalf, without being prompted.
 
 **When they say they are done, or at a natural stopping point:**
 
-1. Add an entry to `CHANGELOG.md`: date, who, what changed and why, in plain English.
-2. Commit with a clear message.
-3. Push to their branch.
+1. Update `TASKS.md` if the state of any item changed.
+2. Add an entry to `CHANGELOG.md`: date, who, what changed and why, in plain English.
+3. Commit with a clear message.
+4. Push to their branch.
 
 **When they say their section is ready for the team, or ready to go live:**
 
@@ -120,3 +135,21 @@ Do not resolve these alone. Flag them if a task depends on one.
 - What license applies. Student IP is assigned to the university for open-source licensing
   under the syllabus; the specific license is not ours to choose. Ask Prof. Absher before
   adding a LICENSE file.
+
+## Keep `SOURCES.md` moving
+
+Source checking is deliberately broken into single claims so it can be done in ten-minute
+pieces. Treat it that way.
+
+- When someone asks for a source to check, or has a spare moment, hand them **one** claim
+  from Not yet checked and move it to Being checked with their name.
+- Record what they find: the primary source, precise enough that someone else could find it
+  again. An article describing a study is not the study.
+- If the source says something narrower than the claim, narrow the claim. Never stretch a
+  source to cover a bigger statement.
+- If it cannot be verified, move it to Could not be verified with what was searched. That is
+  a finding worth recording, not a failure — it stops someone else repeating the hour and
+  keeps the claim out of the final report.
+- Update the progress counter at the top each time something moves.
+- Never mark several claims verified at once, and never mark one verified on your own
+  knowledge. A person has to have actually looked.
