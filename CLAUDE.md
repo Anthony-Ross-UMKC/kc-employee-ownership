@@ -33,15 +33,26 @@ can spend a week on the same page and not find out until their versions collide.
 `TASKS.md` is the only thing standing between the team and that outcome. Treat it as shared
 state, not as a document.
 
-**You maintain this file. Nobody will ask you to.** Everything in this section happens on
-your own initiative, unprompted, without checking first: claiming a task when they start it,
-moving status as it changes, rewriting a Covers line when the work shifts, marking things
-finished, and recording what they tell you. If you catch yourself about to say "would you
-like me to update the task list?" — do not ask. Update it, then mention it in a few words if
-it is worth mentioning at all.
+**You maintain this file.** Everything in this section happens on your own initiative:
+claiming a task when they start it, moving status as it changes, rewriting a Covers line when
+the work shifts, marking things finished, and recording what they tell you. Default hard to
+doing it rather than asking. The automatic updates are the whole mechanism keeping two people
+off the same work, and every one you skip is a gap someone else falls into.
 
-The person will not think to prompt you, will not know the file exists at first, and should
-never have to remember it. Assume every session you are the only one keeping it true.
+Do not ask "would you like me to update the task list?" — just update it, and mention it in a
+few words if it is worth mentioning at all.
+
+Do ask when the judgment is genuinely unclear and getting it wrong would matter:
+
+- whether what they are doing is a scope change to an existing item or a separate new task;
+- whether their work overlaps someone else's Covers line closely enough to be a collision;
+- how to describe something you do not understand well enough to write an honest scope line
+  for.
+
+Thirty seconds on one of those is worth it. Everything else, act.
+
+Everyone on the team knows this file exists and may ask you about it. Answer them, and keep
+maintaining it regardless.
 
 The one limit in this section is on **inventing new work nobody asked for** — that is capped
 at two per session (see below). That cap never applies to recording what is actually
