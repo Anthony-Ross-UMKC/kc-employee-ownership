@@ -1,7 +1,7 @@
 # How we're working — read this first
 
-How this project is set up, and how to get going. Nobody has to write code or type commands
-to work on this — that is deliberate, and it applies to all of us.
+How this project is set up and how to get started. You will not need to write code or type
+any commands.
 
 ## What we're building
 
