@@ -92,8 +92,16 @@ Then read `ONBOARDING.md` in the project folder and give them a short summary of
 own words — what the project is, how the team stays out of each other's way, and the two
 content rules. Do not paste the file at them.
 
-Finally, tell them they can just say what they want to work on, and offer an example or two
-drawn from what is actually in `TASKS.md` right now.
+Finally, read `TASKS.md`.
+
+- **If it has unassigned items,** tell them they can just say what they want to work on, and
+  offer one or two real examples from the list.
+- **If it is empty,** say so plainly — the team has not decided what the site is made of yet,
+  and that is what the Wednesday meeting is for. Tell them they are not behind, and that if
+  they already have an idea of something worth doing, say it and you will add it to the list
+  under their name.
+
+Do not invent tasks to give them.
 
 ## After setup
 
