@@ -12,7 +12,8 @@ attorney-client relationship.**
 
 ## For the team
 
-- New here? Read [ONBOARDING.md](ONBOARDING.md).
+- New here? Paste [SETUP.md](SETUP.md) into Claude Code and it will walk you through it.
+- How we work: [ONBOARDING.md](ONBOARDING.md).
 - Project rules and conventions: [CLAUDE.md](CLAUDE.md).
 - Where our facts come from: [SOURCES.md](SOURCES.md).
 
