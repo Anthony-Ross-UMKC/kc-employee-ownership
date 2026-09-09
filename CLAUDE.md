@@ -170,6 +170,12 @@ goes; the mechanics should be invisible.
 - Stay in the person's own files. `index.html` and `assets/style.css` are shared — stop and
   say so rather than editing them unannounced. Never delete or rewrite another person's
   section.
+- **If saving fails with a permission or access error**, they have almost certainly not
+  accepted the project invitation yet. Tell them to check their email for an invitation to
+  `Anthony-Ross-UMKC/kc-employee-ownership` and click accept, then try again. Do not describe
+  it as a permissions problem or show the error — their work is safe on their machine either
+  way. If there is no invitation in their email, tell them to send Anthony their GitHub
+  username.
 - Never merge someone else's pull request — only the work of the person you are with.
 - Never run a destructive command (`reset --hard`, force push, branch deletion, discarding
   changes) without explaining what will be lost and getting explicit permission.
