@@ -24,10 +24,11 @@ Status is `Unassigned`, `In progress`, or `Finished`.
 
 ## In progress
 
-### Sean Power, Polsinelli
-`In progress` · Anthony, emailed September 4
-**Covers:** the ESOP practice group at Polsinelli — asking for a call with the team.
-Questions are in `notes/polsinelli-questions.md`. Awaiting a reply.
+### Sean Power, Polsinelli — call scheduled
+`In progress` · Anthony
+**Covers:** the call with Polsinelli's ESOP practice group, and what we ask on it. He said
+yes; the call is on the calendar. Questions are in `notes/polsinelli-questions.md` — anyone
+can add to them before we meet.
 
 ---
 
