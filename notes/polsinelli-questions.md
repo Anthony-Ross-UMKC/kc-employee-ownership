@@ -1,7 +1,8 @@
 # Questions for Polsinelli
 
-For a call with Sean Power, who heads Polsinelli's ESOP group. Anthony emailed him
-September 4, 2026 asking for 30–45 minutes with the team. Nothing scheduled yet.
+For a call with Sean Power, who heads Polsinelli's ESOP group.
+
+**Thursday September 10, 2026, 1:00 PM.** Add anything you want asked before then.
 
 Four of these went in the email so he could prepare. The rest are held for the call —
 several are questions he is more likely to answer out loud than in writing.

@@ -26,9 +26,9 @@ Status is `Unassigned`, `In progress`, or `Finished`.
 
 ### Sean Power, Polsinelli — call scheduled
 `In progress` · Anthony
-**Covers:** the call with Polsinelli's ESOP practice group, and what we ask on it. He said
-yes; the call is on the calendar. Questions are in `notes/polsinelli-questions.md` — anyone
-can add to them before we meet.
+**Covers:** the call with Polsinelli's ESOP practice group, and what we ask on it.
+**Thursday September 10, 1:00 PM.** Questions are in `notes/polsinelli-questions.md` — add
+anything you want asked before then.
 
 ---
 
