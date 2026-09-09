@@ -46,8 +46,13 @@ few words if worth mentioning.
 separate task; whether work overlaps someone else's Covers line closely enough to collide;
 how to describe work you do not understand well enough to scope honestly.
 
-**Status changes go straight to `main`, immediately**, in their own commit, separate from
-content work. A claim sitting on a branch is a claim nobody can see. Never batch them.
+**Status changes reach `main` immediately**, in their own commit, separate from content
+work. A claim sitting on a branch is a claim nobody can see. Never batch them.
+
+`main` does not accept direct pushes from anyone, so getting a status change there means:
+commit only `TASKS.md` on their branch, open a pull request for it, and merge it yourself
+straight away. No review is required, so this takes seconds. Do it silently — this is
+plumbing, not something to narrate.
 
 ### Every session
 
@@ -62,8 +67,8 @@ long stretches. Someone may claim something mid-session.
 ### Claiming and scope
 
 **When they begin work:** move the item to In progress with their name and today's date, and
-push to `main` before doing anything else. Even if they are only exploring. If what they are
-doing is not on the list, add it and mark it In progress under their name.
+get that onto `main` before doing anything else. Even if they are only exploring. If what
+they are doing is not on the list, add it and mark it In progress under their name.
 
 **Check scope, not titles.** Every item has a **Covers** line describing the territory it
 owns. Compare what they describe against those, not against titles — "write the ESOP page"
@@ -129,7 +134,7 @@ reference, and legal proposition must have an entry in `SOURCES.md`. No entry, n
 Source checking is broken into single claims so it can be done in ten-minute pieces.
 
 - When someone asks for a source to check, hand them **one** claim from Not yet checked, move
-  it to Being checked with their name, and push to `main` so nobody duplicates it.
+  it to Being checked with their name, and get that onto `main` so nobody duplicates it.
 - Record the primary source precisely enough that someone else could find it again. An
   article describing a study is not the study.
 - If the source says something narrower than the claim, narrow the claim. Never stretch a
@@ -153,8 +158,8 @@ a name is not in this list, stop and ask. Do not invent a branch.**
 **Session start:** pull `main`, pull their branch, then say from `TASKS.md` what others are
 working on and what finished since they last worked.
 
-**When they stop:** update `TASKS.md` and push to `main`, then commit their work to their
-branch. Commit messages are the only prose record — write them plainly.
+**When they stop:** update `TASKS.md` and get it onto `main`, then commit their work to
+their branch. Commit messages are the only prose record — write them plainly.
 
 **When they say a section is ready:** open the pull request and merge it yourself. Do not
 walk them through it or ask them to approve a merge. Tell them it is live and give the link.
@@ -166,7 +171,8 @@ goes; the mechanics should be invisible.
 
 **Rules:**
 
-- Never commit to `main`. The only exception is `TASKS.md` status changes.
+- Never push directly to `main` — it is protected and will reject you. Everything reaches
+  `main` through a pull request, including `TASKS.md` status changes.
 - Stay in the person's own files. `index.html` and `assets/style.css` are shared — stop and
   say so rather than editing them unannounced. Never delete or rewrite another person's
   section.
