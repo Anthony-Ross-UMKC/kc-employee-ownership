@@ -2,72 +2,81 @@
 
 For a call with Sean Power, who heads Polsinelli's ESOP group.
 
-**Thursday September 10, 2026, 1:00 PM.** Add anything you want asked before then.
+**Friday September 11, 2026, 12:00 PM.** Add anything you want asked before then.
 
-Four of these went in the email so he could prepare. The rest are held for the call —
-several are questions he is more likely to answer out loud than in writing.
-
-Put his answers in this file as we get them. Anything he gives us that becomes a claim on
-the site still needs an entry in `SOURCES.md`; an expert saying it on a call is a good lead,
-not a citation.
+Put his answers in this file as we get them. Anything he gives us that later becomes a
+published claim still needs an entry in `SOURCES.md` — an expert saying it on a call is a
+good lead, not a citation.
 
 ---
 
-## Asked in the email
+## What we are actually after
 
-1. Where does a leveraged ESOP start to pencil — EBITDA, headcount, or something else?
-2. What tells you early that a company isn't a candidate?
-3. Where's the UPL line for a tool like this?
-4. Would you use it? What would it need to capture?
+Whether the document set in a small employee-ownership transaction can be standardized far
+enough to compress transaction costs — the way standardized documentation made CLOs
+underwritable in bulk, and the way CarMax turned a bespoke negotiation into a repeatable
+process with a financing engine behind it.
 
-## Deal economics
+The question underneath all of these: **which parts of one of these deals are genuinely
+deal-specific, and which are bespoke only because nobody has standardized them?**
 
-5. Which step of the transaction actually consumes the money — valuation, trustee, lender
-   counsel, our side? We keep seeing 2–4% of deal value starting around $80,000, but not
-   where inside that the cost sits.
-6. Is any of that cost automatable, or does it live in the parts a lawyer has to do by hand?
-7. Below the threshold where an ESOP works, is an employee ownership trust or a cooperative
-   a real answer, or is that mostly theoretical in practice?
-8. How often does the seller note do the work that the bank won't? Is seller financing the
-   thing that actually makes these close?
+---
 
-## Screening
+## The document set
 
-9. What do you ask in a first conversation with an owner, and in what order?
-10. What is the most common reason a deal that looked good at intake falls apart later?
-11. How much of your intake time goes to companies that were never going to work?
+1. What documents actually move in a transaction taking a closely held business to an ESOP,
+   start to close? We want the inventory, not the summary.
+2. Of those, which come out substantially the same every time?
+3. Where does the real tailoring live? And is it tailoring the facts require, or tailoring
+   because every firm works from its own precedent?
+4. Does a standard form set exist anywhere — NCEO, an ABA section, a lender's package? Or
+   does every shop start from its own?
 
-## The tool
+## Where the money goes
 
-12. Whose interest should a tool like this serve — the seller, the employees, or the trustee?
-    They diverge, and it changes what we disclose and how we phrase everything.
-13. What should the tool never say, even if it's true?
-14. If an owner came to you having used it, what would you want them to already understand —
-    and what would you want them not to have been told?
+5. Which documents or steps consume the most hours? We keep seeing 2–4% of deal value
+   starting around $80,000, but not where inside that the cost actually sits.
+6. If the document set were standardized, what would realistically happen to that floor —
+   and what would be left over?
+7. What cannot be standardized at any price? Valuation, trustee judgment, something else?
+8. How much of the cost is document production, versus negotiation, versus diligence?
 
-## Regulatory
+## Doing these at volume
 
-15. The DOL final valuation regulations are on the agenda for November 2026. What are you
-    expecting, and does it change the math on smaller deals?
-16. How much does adequate-consideration exposure actually shape how you structure a deal,
-    versus how much it shapes what you tell clients?
+9. Has anyone tried to originate these at volume off a standard document set?
+10. What would a lender need to see before underwriting a portfolio of these rather than one
+    deal at a time?
+11. Where would that model break first — DOL scrutiny, trustee independence, valuation
+    variability, something we have not thought of?
+12. Does standardization make the Department of Labor more comfortable, or less?
 
-## Kansas City specifically
+## Thresholds
 
-17. Are there local lenders who understand this product, or does the financing come from
-    outside the region?
-18. Who else should we be talking to — a banker who has financed one of these, a trustee,
-    an owner who went through it?
-19. Is there anything happening locally on employee ownership that we should know about and
-    probably don't?
+13. Where does a leveraged ESOP start to pencil — EBITDA, headcount, or something else? And
+    what would that number become if the documents were standardized?
+14. What tells you early that a company isn't a candidate?
+
+## The line we have to stay on
+
+15. If we produce standardized forms a seller or their counsel could work from, where is the
+    unauthorized practice line? Publishing forms is one thing; a tool that selects among them
+    based on someone's answers is another.
+16. Whose interest do standardized forms serve — seller, employees, or trustee? They diverge,
+    and a form that quietly favors one is worse than no form at all.
+
+## Asks
+
+17. Would he share a due diligence checklist? Prof. Absher has offered his; a second would
+    show us what is common practice versus firm-specific.
+18. Who else should we talk to — a lender who has financed one of these, a trustee, an owner
+    who went through it?
 
 ---
 
 ## Before the call
 
 - Decide who attends and who takes notes.
-- Read his answers to the four emailed questions, if he answers in writing, and cut anything
-  here he has already covered.
+- Cut anything he has already covered in writing.
 - Do not re-ask what Prof. Absher has already asked him.
 - Anthony was a summer associate at Polsinelli. Keep the line clean between what he learned
   there and what we are asking now — ask fresh, and do not reference specific matters.
