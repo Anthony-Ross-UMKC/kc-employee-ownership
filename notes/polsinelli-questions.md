@@ -73,14 +73,6 @@ deal-specific, and which are bespoke only because nobody has standardized them?*
 
 ---
 
-## Before the call
-
-- Decide who attends and who takes notes.
-- Cut anything he has already covered in writing.
-- Do not re-ask what Prof. Absher has already asked him.
-- Anthony was a summer associate at Polsinelli. Keep the line clean between what he learned
-  there and what we are asking now — ask fresh, and do not reference specific matters.
-
 ## Answers
 
 *(fill in as we get them)*
