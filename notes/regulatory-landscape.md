@@ -176,13 +176,40 @@ than simply carving conduct out.
 
 ## Parsons is even hollower than it looks
 
-The district court opinion (1999 WL 47235) is **unpublished, Westlaw-only, and could not be
-retrieved from any free source.** The commonly repeated framing — that it turned on the
-software "selecting and tailoring based on user answers" — **cannot be verified against the
-opinion**. What is verifiable comes from the Fifth Circuit's own characterization: Judge
-Barefoot Sanders granted summary judgment for the UPL Committee and permanently enjoined sale
-of Quicken Family Lawyer in Texas, on the ground that it was the practice of law under
-§ 81.101.
+The district court opinion (1999 WL 47235 / 1999 U.S. Dist. LEXIS 813) is **unpublished and
+not on the free web.** Its reasoning is recoverable, though, through verbatim quotations with
+pinpoint cites in three law review articles: Lanctot, *Scriveners in Cyberspace*, 30 Hofstra
+L. Rev. 811 (2002); Underwood, 79 Wash. L. Rev. 437 (2004); and Steward, 53 Hofstra L. Rev.
+391 (2025). Full text would need Westlaw or Lexis through the law library.
+
+**The holding** (LEXIS at \*19): the software "goes beyond merely instructing someone how to
+fill in a blank form. While no single one of QFL's acts, in and of itself, may constitute the
+practice of law, taken as a whole Parsons, through QFL, has gone beyond publishing a sample
+form book with instructions, and has ventured into the unauthorized practice of law."
+
+**What actually drove it was the packaging.** The CD-ROM advertised that the product was
+"valid in 49 states including the District of Columbia," was "developed and reviewed by expert
+attorneys," and was "updated to reflect recent legislative formats." The court found these
+"create[d] an air of reliability about the documents, which increases the likelihood that an
+individual user will be misled into relying on them," and framed the State's interest as
+preventing citizens "from being lulled into a false sense of security that if they use QFL
+they will have a 'legally valid' document that's 'tailored to [their] situation' and 'best
+meets their needs.'"
+
+**The disclaimer failed on placement, not wording.** QFL carried a genuinely careful one — "we
+cannot decide that our program's lease is appropriate for you… you must use your own judgment
+and, to the extent you believe appropriate, the assistance of a lawyer." The court rejected it
+because it "does not appear anywhere on QFL's packaging" and "does not appear on subsequent
+uses of the program unless the user actively accesses the 'Help' pull-down menu at the top of
+the screen and then selects 'Disclaimer.'"
+
+**Directly relevant here:** if this project publishes a standardized form set, how its
+reliability is described is as legally consequential as the forms. Avoid "valid in Missouri,"
+"reviewed by attorneys," "up to date," and anything else that invites reliance.
+
+The court also rejected a personal-contact requirement (LEXIS at \*20): the statute permits a
+court to conclude "that services provided to the public as a whole, as opposed to a singular
+client, qualify as the practice of law."
 
 The Fifth Circuit
 ([official PDF](https://www.ca5.uscourts.gov/Opinions/pub/99/99-10388.CV0.wpd.pdf)) then
