@@ -171,3 +171,127 @@ limits damages.
 That is a genuine jurisdictional split in philosophy. Since anything the team builds may be
 university-associated, run this past whoever handles UMKC's institutional risk before choosing
 a side.
+
+---
+
+# Corrections and additions from a second pass
+
+## The sharpest statement of the line — and it is uncomfortable
+
+**LSC Advisory Opinion AO-2017-004**
+([lsc.gov](https://www.lsc.gov/about-lsc/laws-regulations-and-guidance/advisory-opinions/ao-2017-004)):
+
+> "explaining the process for obtaining a child custody order is legal information. By
+> contrast, **an evaluation of a parent's legal basis for a claim** for custody of a specific
+> child is legal advice."
+
+Applied here: explaining what an ESOP requires is information. **Evaluating whether this
+company can do one is advice.** That is close to a description of what a candidacy screener
+does, so the distinction has to be real rather than cosmetic — output that describes
+categories a company might fall into, not an evaluation of the company in front of it.
+
+Use this as the internal switch on every output: *does this require legal analysis applied to
+this user's facts?* If yes, it belongs on a path with a licensed lawyer, not in the
+questionnaire.
+
+## A click-wrap gate cannot cure UPL
+
+The click-through recommendation above stands, but **only for the problem it solves.**
+
+- *Eisel v. Midwest BankCentre*, 230 S.W.3d 335 (Mo. banc 2007): "the activities prohibited by
+  section 484.020 are **not subject to waiver, consent or lack of objection by the victim**."
+- *Carpenter v. Countrywide*, 250 S.W.3d 697 (Mo. banc 2008): treble damages "do[] not require
+  a finding of a culpable mental state."
+
+**Consent solves relationship formation and user expectation. Only conduct design solves UPL.**
+Two problems, two solutions; do not let the gate create false comfort.
+
+## Michigan RI-301 — the four factors that kept a program clear
+
+[Mich. State Bar Op. RI-301](https://www.michbar.org/opinions/ethics/numbered_opinions/RI-301)
+found no attorney-client relationship, and no disqualification from later representing the
+adverse party, where a self-help clinic was:
+
+1. conducted **in a group setting**;
+2. with **no individual consultation** in which confidential information was divulged;
+3. collecting **only eligibility information** at intake; and
+4. backed by a **signed written disavowal**.
+
+Translated to software: broadcast-identical content, no confidential intake channel,
+eligibility-only fields, click-accepted disavowal. This is the clearest target to build to.
+
+## Disclaimers are judged by user expectation, not emphasis
+
+[Utah Ethics Op. 96-12](https://www.utahbar.org/wp-content/uploads/2022/12/1996-12.pdf):
+disclaimers are "effective where the individual receiving the information has **no expectation
+that an attorney/client relationship is created**."
+
+So control tone, personalization, second-person address, and anything resembling a human
+persona — not just the boilerplate. A warm conversational interface undermines its own
+disclaimer.
+
+## Two refusal manuals worth hard-coding
+
+**Texas Office of Court Administration**, *Legal Information vs. Legal Advice*
+([PDF](https://www.txcourts.gov/media/1220087/legalinformationvslegaladviceguidelines.pdf)) —
+a twelve-item "may not" list ("Recommend whether to file…", "Predict the outcome of a case"),
+the heuristic that "**telling a member of the public what to do rather than how to do it** may
+be giving legal advice," and a warning that showing only *some* options "may indirectly
+influence a decision."
+
+**That last point matters for design: show all options, never a ranked subset.** A ranked
+recommendation engine is closer to advice than an exhaustive option list.
+
+**Judicial Council of California**, *May I Help You?*
+([PDF](https://courts.ca.gov/sites/default/files/courts/default/2024-10/mayihelpyou.pdf)) —
+"'Can I?' or 'How do I?' … Telling someone how to do something is almost always appropriate,"
+whereas "whenever you hear the word '**should**,' the court user may be asking for advice that
+you cannot provide."
+
+If any language model generates output here, these two lists are the refusal taxonomy to give
+it.
+
+## Structure the disclaimer as a stage, not a sentence
+
+**New York courts' A2J best-practices guide**
+([PDF](https://www.nycourts.gov/LegacyPDFS/ip/nya2j/pdfs/BestPractices_courtsystemdocument_assemblyprograms.pdf),
+p. 15):
+
+> "It is important to include a screen early in the program with a disclaimer that the program
+> does not provide legal advice. This screen should require the user to respond with an
+> **affirmative acknowledgment** and should include a pop-up or learn more on the difference
+> between legal advice and legal information."
+
+And: "**If information is essential for the litigant to read do not put it in a 'Learn More'
+box. Most litigants do not read them.**" On screening (p. 16): "it is best to exclude them
+early on… think about where to send excluded litigants when they exit the program."
+
+A2J Author ships this as structure: a new interview's default steps are "(0) Access to
+Justice, (1) **Do You Qualify?**, (2) **Do You Agree?**, (3) Your Information."
+
+## Data retention, with real numbers
+
+- Michigan Legal Help deletes answers after **60 days** (protection orders) or **180 days**
+  (everything else), with an "Exit and delete my answers" button. Its triage tool "does not
+  collect your name or contact information."
+- Illinois Legal Aid Online deletes at **90 days** / **180 days** depending on platform.
+- LawHelp Interactive does not autosave at all for guest users.
+
+## Two Missouri-specific cautions
+
+**[Missouri Informal Opinion 20000103](https://mo-legal-ethics.org/informal-opinion/20000103/)**
+— the nearest Missouri authority on web intake, and it is a warning: "By providing the
+opportunity to contact Attorney by e-mail through Attorney's website, Attorney exposes
+Attorney's firm to certain risks. One of the primary risks is that an attorney-client
+relationship will be established." It also flags **imputed conflicts** that could disqualify a
+participating firm from unrelated adverse matters.
+
+**An unfiltered free-text box is the highest-risk element on the page.** Structured choices
+are safer than open input.
+
+**Missouri Rule 4-6.5** (short-term limited legal services, relaxed conflicts) applies **only**
+"under the auspices of a program sponsored by a nonprofit organization or court." If the team
+ever wants that shelter, sponsorship structure is a compliance feature, not branding.
+
+**Kansas bar ethics opinions are not published online at all**, so the Kansas side cannot be
+researched the same way.
