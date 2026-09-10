@@ -74,3 +74,61 @@ California enacted AB 931 (signed Oct. 10, 2025, effective Jan. 1, 2026 through 
 prohibiting California lawyers from sharing fees with an out-of-state alternative business
 structure. Reform states' entities can be walled off by neighbors — directly relevant to any
 cross-border Kansas City service model. *(Single-sourced; the bill text was not retrieved.)*
+
+---
+
+## Two things a careless reader will get wrong
+
+**Missouri has a regulatory sandbox. It is not for law.** The General Regulatory Sandbox Act
+([RSMo §§ 620.3900–620.3930](https://revisor.mo.gov/main/OneSection.aspx?section=620.3900),
+effective Aug. 28, 2024) created a Regulatory Relief Office in the Department of Economic
+Development. It almost certainly cannot reach legal services:
+
+- § 620.3900 defines "applicable agency" as "a **department or agency of the state** that by
+  law regulates a business activity." The Supreme Court of Missouri is not an executive
+  agency.
+- [§ 620.3920](https://revisor.mo.gov/main/OneSection.aspx?section=620.3920): "A sandbox
+  participant shall not have immunity related to any **criminal offense**." UPL under
+  § 484.020 is a misdemeanor.
+
+Neither the statute nor the program page contains an *express* carve-out for the practice of
+law, so this reading is inference, not something a source states. Do not write "Missouri has a
+regulatory sandbox" without the qualifier.
+
+**Missouri has legislated toward restriction, not permission.** SB 1395 (2026 Reg. Sess., Sen.
+Curtis Trent) would have made it unauthorized practice to provide "papers, pleadings, or
+documents … produced or generated through the use of **artificial intelligence**" unless
+licensed. Second read and referred to Senate General Laws, Jan. 27, 2026;
+[did not pass](https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=691).
+
+Directly relevant to any proposal to use AI to compress transaction costs. A failed bill is
+not law, but it is a signal about the politics.
+
+## Nobody in Missouri is working on this
+
+- **The Missouri Bar has no reform vehicle.** All six divisions, 44 committees — there is an
+  Access to Justice Committee (accommodations, pro bono, sample forms) and a Technology &
+  Innovation Law Committee (a substantive practice area, not regulatory). No committee on
+  regulatory reform, service-delivery models, or paraprofessional licensure. The Bar's own
+  Guidelines & Reports inventory contains nothing on the subject.
+- **The Chief Justice's framing is lawyer-supply, not nonlawyer-supply.** In September 2025
+  Chief Justice W. Brent Powell noted that "in more than a third of Missouri counties, there
+  are only 10 licensed attorneys or fewer," and responded by creating a **Special Committee on
+  Rural Practice** — recruiting lawyers to rural areas. No mention of nonlawyer providers,
+  technology, or regulatory reform.
+- **Rule 9** (Practice of Law in the State) has no paraprofessional tier. The only nonlawyer
+  carve-outs in Rules 1–18 are Rule 13 (law student assistance) and Rule 18 (nonlawyer
+  municipal judges) — neither is a service-delivery license.
+
+## One gap worth closing by hand
+
+The **2016 Joint Task Force on the Future of the Profession**, created by then-Chief Justice
+Mary Russell, had subcommittees on "the impact of technology on Missouri's lawyers and courts"
+and "increasing accessibility of legal services." That is the single most likely place a
+Missouri body would have touched these questions. **The report could not be retrieved** — the
+Bar's site serves it only through a JavaScript document handle.
+
+Worth requesting directly from The Missouri Bar (573-638-2665). An ABA *Bar Leader* follow-up
+describes Missouri's post-report activity only in general terms while expressly crediting Utah
+with establishing a limited license legal technician committee — no parallel item is
+attributed to Missouri, which is suggestive but not proof.
