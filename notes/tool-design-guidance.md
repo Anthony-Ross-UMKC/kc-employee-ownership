@@ -295,3 +295,124 @@ ever wants that shelter, sponsorship structure is a compliance feature, not bran
 
 **Kansas bar ethics opinions are not published online at all**, so the Kansas side cannot be
 researched the same way.
+
+---
+
+# Output framing — what real screeners actually say
+
+## Start here: UMKC has already built one of these
+
+The **Missouri Public Expungement Tool** — a guided interview that assesses eligibility under
+§ 610.140 RSMo and generates a petition — was built by **UMKC School of Law's Clear My Record
+project** and is now housed at the **Center for Law, Entrepreneurship and Innovation**
+([lei.center](https://www.lei.center/projects/missouri-expungement-tools)).
+
+This is the closest possible precedent: a public tool that evaluates a person's situation
+against Missouri law, operated by this law school. Whoever built it already made every call
+this project is about to make. **Talk to them before designing anything.**
+
+**It is currently broken** — `expungementmo.civilaw.tech` returns a MySQL connection error.
+Worth knowing as a lesson about who maintains these after the students graduate.
+
+How it framed things (from an archived copy, since the live site is down):
+
+- **Two-stage read.** Step names ran "Preliminary Review → Case Information → Lookup Your
+  Offense → Categorize Offenses → … → **Final Eligibility Assessment** → Start Petition."
+- **Never claims the outcome.** "This self-help tool is designed to help you generate the
+  necessary paperwork… This tool does not file the documents for you… After filing the
+  Petition for Expungement, it may take up to six months for **a judge** to make a decision."
+- **Disclaimer in the footer of every step**, not just the intro: "The information provided by
+  this tool is based on publicly available statutes and is intended for informational purposes
+  only. It is not a substitute for professional legal advice… it is your responsibility to
+  review the documents and ensure they meet your specific legal needs before filing."
+- **Separate site-level disclaimer** disclaiming both the relationship and the accuracy:
+  "using this website does not establish an attorney-client relationship… laws are constantly
+  changing, and we cannot guarantee that the information provided is fully accurate or
+  applicable to your case."
+
+## The verb ladder
+
+Attested across real tools, weakest to strongest:
+
+1. "you **may be able to**" — Clean Slate PA headline
+2. "**predict whether they might be** eligible" — Rasa Legal, describing its software
+3. "you **may be eligible for** these benefits" — USAGov Benefit Finder results
+4. "**Likely eligible** / More information needed / Not eligible" — USAGov per-item labels
+5. "**confirm your eligibility**" — Rasa, but *only* after a licensed lawyer reviews
+6. "**true eligibility**" / "**exact** premium" — reserved for the deciding agency
+
+Nothing this project builds gets past rung 4.
+
+## Name the confidence level — it beats a disclaimer paragraph
+
+**Healthcare.gov** labels the same field "**Estimated Rate**" or "**Guaranteed Rate**"
+depending on confidence, and stamps "**Prices here are estimates**" as a section heading, not
+fine print. "Important: The premiums and tax credit you've seen here are just estimates based
+on limited information."
+
+**USAGov** splits the vocabulary by who is speaking: the tool produces "**your potential
+benefits**"; the agency has "**true eligibility**." Its instruction is "Visit each agency to
+find true eligibility and to apply."
+
+Naming what kind of answer this is does more work than any paragraph of hedging.
+
+## Disclaim the act, not just the content
+
+**Upsolve's** terms are the UPL-safest sentence found, because they negate the definition
+directly rather than characterizing the output:
+
+> "**At no time do we review your answers for legal sufficiency, draw legal conclusions,
+> provide legal advice, opinions or recommendations about your legal rights, remedies,
+> defenses, options, selection of forms, or strategies, or apply the law to the facts of your
+> particular situation.**"
+
+Note "selection of forms" — directly relevant if this project publishes a form set.
+
+Caveat: it did not save Upsolve at the Second Circuit, though *Upsolve v. James* concerned
+live nonlawyer advice rather than software. The court held UPL statutes regulating
+individualized advice are **content-neutral** speech regulations under intermediate scrutiny,
+vacated the injunction, and remanded — leaving the First Amendment question unresolved.
+
+## Disclaim the inputs too
+
+More credible than a generic "not legal advice," and all attested:
+
+- Clean Slate PA: "It relies on public data that [may] be imperfect, and **the screener can
+  make mistakes**."
+- The UMKC tool: "based on publicly available statutes."
+- Rasa names the specific missing fields that block a confident read — probation end dates,
+  close dates, legal financial obligations.
+
+## Placement — almost everyone gets this wrong
+
+Only two of the tools surveyed force acknowledgment **at the point of output** rather than
+burying it in a terms page:
+
+- **Clean Slate PA** puts a required consent checkbox inside the intake form, above Submit.
+- **Illinois Legal Aid Online**'s triage ends with two required checkboxes, one of which is
+  "**I know that just because I fill out this online form, no legal organization has taken my
+  case.**"
+
+The UMKC tool's footer-on-every-step is second best. Michigan Legal Help has **no inline
+disclaimer** on its substantive pages at all — the hedging is done entirely by verb choice.
+
+## Two models for handing off the hard part
+
+- **Code for America's Clear My Record deliberately never told the user their eligibility.**
+  The tool routed to a county public defender, who answered in about four weeks: "In about 4
+  weeks, you'll hear from each county. They'll tell you what you qualify for." CfA later
+  pivoted away from consumer screening entirely toward automatic record clearance.
+- **Rasa Legal** splits it: software "predicts," a licensed lawyer "confirms" for a fee. Rasa
+  carries no not-legal-advice disclaimer because it *is* a law firm and sells the confirmation.
+
+Both are ways of not being the one who decides.
+
+## Saving answers
+
+- **USAGov saves nothing and says so before you start:** "We do not share, save, or submit
+  your information."
+- Clean Slate PA emails results and adds the user to a mailing list.
+- Illinois Legal Aid, Michigan Legal Help and Upsolve all persist answers behind a login.
+
+Storing nothing is both the safest privacy posture and the one that keeps humans out of the
+loop by construction.
