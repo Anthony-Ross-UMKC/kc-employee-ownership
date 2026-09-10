@@ -132,3 +132,82 @@ Worth requesting directly from The Missouri Bar (573-638-2665). An ABA *Bar Lead
 describes Missouri's post-report activity only in general terms while expressly crediting Utah
 with establishing a limited license legal technician committee — no parallel item is
 attributed to Missouri, which is suggestive but not proof.
+
+---
+
+## What a carve-out could look like — two models
+
+If this project proposes a Missouri statutory safe harbor, there are two shapes to argue from.
+
+**Texas 1999 — a one-sentence disclaimer safe harbor.**
+[Tex. Gov't Code § 81.101(c)](https://capitol.texas.gov/tlodocs/76R/billtext/html/HB01507F.HTM):
+the practice of law "does not include the design, creation, publication, distribution,
+display, or sale, **including … by means of an Internet web site**, of written materials,
+books, forms, computer software, or similar products **if the products clearly and
+conspicuously state that the products are not a substitute for the advice of an attorney**."
+
+That is the entire condition. No attorney review, no registration, no fees. Two carve-backs:
+it operates only within the State Bar Act, and it does not reach Chapter 83 (who may charge
+for preparing instruments affecting real property title) or Penal Code §§ 38.122/38.123.
+
+**On feasibility:** HB 1507 passed **138–2** in the House and **26–4** in the Senate, start to
+finish in under two months, effective the day the Governor signed it (June 18, 1999). It moved
+fast enough that the Fifth Circuit applied it to a pending appeal. Acts 1999, 76th Leg., ch.
+799, § 1.
+
+**North Carolina 2016 — a regulated-entry regime.**
+[N.C. Gen. Stat. § 84-2.2](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_84/GS_84-2.2.html)
+exempts "the operation of a website by a provider that offers consumers access to
+**interactive software that generates a legal document based on the consumer's answers to
+questions** presented by the software" — precisely the conduct *Janson* condemned. But it
+imposes seven cumulative conditions plus **registration with the N.C. State Bar** and fees:
+
+- preview of the template or completed document before purchase;
+- **review of every template by a North Carolina–licensed attorney**, with names and addresses
+  on file;
+- a statement that the forms are not a substitute for the advice or services of an attorney;
+- disclosure of the provider's legal name and physical address;
+- **no disclaimer of warranties and no limitation of damages**;
+- no out-of-state forum selection;
+- a consumer-satisfaction process routing UPL complaints to the State Bar.
+
+**North Carolina is the more defensible ask**: it trades permission for accountability rather
+than simply carving conduct out.
+
+## Parsons is even hollower than it looks
+
+The district court opinion (1999 WL 47235) is **unpublished, Westlaw-only, and could not be
+retrieved from any free source.** The commonly repeated framing — that it turned on the
+software "selecting and tailoring based on user answers" — **cannot be verified against the
+opinion**. What is verifiable comes from the Fifth Circuit's own characterization: Judge
+Barefoot Sanders granted summary judgment for the UPL Committee and permanently enjoined sale
+of Quicken Family Lawyer in Texas, on the ground that it was the practice of law under
+§ 81.101.
+
+The Fifth Circuit
+([official PDF](https://www.ca5.uscourts.gov/Opinions/pub/99/99-10388.CV0.wpd.pdf)) then
+**vacated the injunction and judgment and remanded** in light of the new subsection (c),
+deciding nothing on the merits. Do not cite *Parsons* for any proposition about legal
+software. The durable output of that episode was legislative, not judicial.
+
+## Kansas and Missouri would need different reform paths
+
+This matters for a metro-framed project.
+
+**Kansas has no statutory definition to amend.** K.S.A. ch. 7, art. 1 is almost entirely
+repealed — 7-101, 7-102, 7-104, 7-105, 7-106, 7-107, and 7-110 through 7-114 are all gone.
+What survives is 7-103 (Supreme Court rulemaking on admission and discipline) and the
+attorney-lien provisions. Kansas regulates UPL through **Supreme Court Rule 240 and inherent
+judicial power**. ([K.S.A. ch. 7](https://www.ksrevisor.gov/statutes/chapters/ch07/))
+
+**Missouri has § 484.010's 1939 definition and § 484.020's criminal penalty in the way.**
+
+So **Kansas could plausibly move by court order, the way Utah and Arizona did. Missouri would
+need the legislature.** The easier jurisdiction to move is the Kansas side of the line.
+
+## One claim not to repeat
+
+The Texas House Research Organization's analysis of HB 1507 asserts that similar laws already
+existed in Colorado, Florida, Indiana, Michigan, New York, and Oregon. That is a supporters'
+talking point in a legislative document and **none of the six was verified**. If used, cite it
+as what the analysis says supporters claimed, not as those states' law.
