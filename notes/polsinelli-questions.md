@@ -66,8 +66,8 @@ deal-specific, and which are bespoke only because nobody has standardized them?*
 
 ## Asks
 
-17. Would he share a due diligence checklist? Prof. Absher has offered his; a second would
-    show us what is common practice versus firm-specific.
+17. Would he share a due diligence checklist? Seeing what one firm treats as standard would
+    tell us a great deal about what is common practice versus what is firm-specific.
 18. Who else should we talk to — a lender who has financed one of these, a trustee, an owner
     who went through it?
 
