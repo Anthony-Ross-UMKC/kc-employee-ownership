@@ -30,6 +30,14 @@ Status is `Unassigned`, `In progress`, or `Finished`.
 **Thursday September 10, 1:00 PM.** Questions are in `notes/polsinelli-questions.md` — add
 anything you want asked before then.
 
+### Where the unauthorized practice line is
+`In progress` · Anthony, September 9
+**Covers:** how far the intake can go before it becomes legal advice, and what that means for
+the wording of every result. Missouri authority — Mo. Rev. Stat. 484.010 and 484.020, Janson
+v. LegalZoom (W.D. Mo.) — plus how comparable public legal-information tools are structured.
+Anything about UPL, disclaimers, or advice-versus-information belongs here. Upstream of the
+intake wording, so it lands before that gets built.
+
 ---
 
 ## Unassigned
