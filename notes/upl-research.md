@@ -170,3 +170,88 @@ The National Center for State Courts frames the distinction as information "expl
 rules… and your options" versus advice that "tells you what you should do to get the best
 outcome" ([NCSC](https://www.ncsc.org/resources-courts/legal-advice-vs-legal-information)) —
 useful, but **no Missouri court has adopted it as a test**.
+
+---
+
+# Refinements from a second research pass
+
+September 9, 2026. Same caveat — unverified. Where this conflicts with anything above, this
+section is better sourced.
+
+## "Charge nothing" is necessary, not sufficient
+
+The consideration element defeats the **misdemeanor** and the **treble-damages remedy**. It
+does not put a service outside UPL.
+
+- *Hulse v. Criger*, 247 S.W.2d 855, 861 (Mo. banc 1952) forbids conveyancing for the public
+  generally "**with or without separate charge**."
+- *Hulse*'s conclusions on giving legal advice, and on gathering facts "for the purpose of
+  advising," are not conditioned on any charge.
+- Separation of powers cuts both ways: the statute is a **floor** for civil and criminal
+  liability but not a **ceiling** on what the Court may enjoin under its inherent power.
+  *Eisel v. Midwest BankCentre*, 230 S.W.3d 335, 338–39 (Mo. banc 2007).
+
+Accurate statement: **free removes the damages base, not the exposure.**
+
+## There are two safe harbors, and only one is available to us
+
+**The *Hulse* / *First Escrow* lane — not available.** Filling blanks on standardized forms
+requires *all* of: forms drafted or approved by a Missouri attorney; the activity **ancillary
+to** another legitimate business rather than the business itself; a **direct financial
+interest** in the transaction, or agency for someone who has one; no separate charge **and**
+no varied charge; no selection of the form; no exercise of judgment or discretion; and no
+advice on legal rights, legal effect, or validity of title. Fail one element and the harbor is
+gone. *In re First Escrow*, 840 S.W.2d 839 (Mo. banc 1992); *Hargis*, 357 S.W.3d 574 n.5.
+
+This project has neither an ancillary business nor a financial interest in anyone's
+transaction, so this lane was never open to us.
+
+**The *Thompson* / *Mid-America* lane — this is ours.** *In re Thompson*, 574 S.W.2d 365 (Mo.
+banc 1978) **dismissed** the information: divorce kits containing forms *plus* "general
+procedural instructions designed to instruct as to what forms to file, in what order and
+where, and instructions on how to prepare the forms" were not UPL — and they were **sold**.
+The limit is that sellers must "refrain from giving **personal advice as to legal remedies or
+the consequences flowing therefrom**."
+
+*In re Mid-America Living Trust Assocs.*, 927 S.W.2d 855, 859 (Mo. banc 1996) restates it:
+non-attorneys "may sell generalized legal publications and 'kits,' so long as no personal
+advice as to the legal remedies or consequences flowing therefrom is given," but "[t]he need
+for public protection demands the **strictest scrutiny when the exercise of judgment and
+discretion is applied to the particular legal needs of an individual**."
+
+Mid-America lost because "specific individuals were solicited and Mid-America's trusts were
+recommended and sold to them," and its associates "were giving legal advice to the clients
+about choices to be made and the legal effects of those choices." Attorney review after the
+fact was "too little and too late" and could not cure it.
+
+**Implication for standardized deal documents:** publishing a form set with general
+instructions is the *Thompson* fact pattern. The line is crossed by individualized
+application — recommending which form *this* company should use, or explaining what it means
+for *their* situation.
+
+## Other points worth knowing
+
+- **"Procuring" requires active involvement.** *Hargis*: it "involves **more than merely
+  passively gathering or obtaining** information, data or documents." Preparing a borrower's
+  loan application and financial disclosures was **not** the practice of law.
+- **The personal-interest defense fails where a fee is charged**, and the **voluntary payment
+  doctrine is unavailable** — § 484.020 activities "are not subject to waiver, consent or lack
+  of objection by the victim." *Eisel*.
+- **Treble damages survive due process** without a culpable mental state, and a
+  money-had-and-received claim gives a 5-year fallback beyond the 2-year statutory window.
+  *Carpenter v. Countrywide*, 250 S.W.3d 697 (Mo. banc 2008).
+- **§ 484.025** (2005) exempts banks and lending institutions charging under $200 for
+  residential loan documentation — narrow, but proof the legislature does carve out.
+- **Enforcement reality.** The Office of Chief Disciplinary Counsel opened roughly 6–21 UPL
+  files per year (2015: ~18; 2017: ~21; 2021: 6; 2024: 14), and states in its own annual
+  reports that it focuses on "widespread consumer fraud" and is "only authorized to seek a
+  civil injunction." **The private treble-damages class action is the real enforcement
+  engine** — *Eisel*, *Carpenter*, *Janson*, and *McKeage v. TMBC* (~$7.35M untrebled, ~$2.4M
+  in fees shifted).
+
+## Still unretrieved, worth a manual look
+
+Court Operating Rule 25, "Services by Court Clerks and Staff in Family Law Cases," and COR
+29.01, "Juvenile Officer Practice of Law." COR 25 is likely the single best Missouri authority
+on the information-versus-advice line for non-lawyer staff. Neither could be retrieved
+automatically.
