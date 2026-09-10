@@ -27,7 +27,7 @@ Status is `Unassigned`, `In progress`, or `Finished`.
 ### Sean Power, Polsinelli — call scheduled
 `In progress` · Anthony
 **Covers:** the call with Polsinelli's ESOP practice group, and what we ask on it.
-**Friday September 12, 12:00 PM.** Questions are in `notes/polsinelli-questions.md` — add
+**Friday September 11, 12:00 PM.** Questions are in `notes/polsinelli-questions.md` — add
 anything you want asked before then. Reframed around whether the deal document set can be
 standardized, not around the website.
 
