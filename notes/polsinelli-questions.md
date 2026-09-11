@@ -23,6 +23,25 @@ reduce drafting cost, it made pools of loans poolable and financeable.
 
 So the first job on this call is finding out where the money actually goes.
 
+## If we only get five
+
+Eighteen questions does not fit in forty-five minutes, and the follow-ups are where the real
+answers are. These five are the ones worth protecting — everything else is opportunistic.
+
+**1 · 5 · 10 · 17 · 18**
+
+- **1** — the cost breakdown. He is already engaged on it, so he will go further than a cold
+  start.
+- **5** — the document inventory. Foundational, and the one question he may have looked at
+  beforehand.
+- **10** — what a lender needs to underwrite a portfolio rather than one deal. Our
+  load-bearing assumption, and the one he is best placed to demolish.
+- **17** — the due diligence checklist. A concrete thing we leave with.
+- **18** — who else to talk to. Compounds into everything after this call.
+
+Anthony is leading. Everyone is on and everyone will have questions — the risk is not silence,
+it is that these five get crowded out by good tangents.
+
 ## What we are actually after
 
 Whether a small employee-ownership transaction can be made repeatable enough to be financed
