@@ -24,12 +24,13 @@ Status is `Unassigned`, `In progress`, or `Finished`.
 
 ## In progress
 
-### Sean Power, Polsinelli — call scheduled
+### Sean Power, Polsinelli — call done, follow-ups open
 `In progress` · Anthony
-**Covers:** the call with Polsinelli's ESOP practice group, and what we ask on it.
-**Friday September 11, 12:00 PM.** Questions are in `notes/polsinelli-questions.md` — add
-anything you want asked before then. Reframed around whether the deal document set can be
-standardized, not around the website.
+**Covers:** the call with Polsinelli's ESOP practice group and everything that came out of it.
+Held Friday September 11. **Notes are in `notes/polsinelli-call-notes.md` — read these before
+doing anything else on the project; they move the thesis.** Still open: thank-you email,
+collecting the due diligence checklist and ESOP 101 deck he offered, and asking Absher what he
+and Sean discussed about cash at closing.
 
 ### Where the unauthorized practice line is
 `In progress` · Anthony, September 9 — research landed; needs verification by a person
