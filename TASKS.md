@@ -27,8 +27,8 @@ Status is `Unassigned`, `In progress`, or `Finished`.
 ### Sean Power, Polsinelli — call done, follow-ups open
 `In progress` · Anthony
 **Covers:** the call with Polsinelli's ESOP practice group and everything that came out of it.
-Held Friday September 11. **Notes are in `notes/polsinelli-call-notes.md` — read these before
-doing anything else on the project; they move the thesis.** Still open: thank-you email,
+Held Friday September 11. Notes are in `notes/polsinelli-call-notes.md`. Still to
+collect: the due diligence checklist and ESOP 101 deck he offered to send. Still open: thank-you email,
 collecting the due diligence checklist and ESOP 101 deck he offered, and asking Absher what he
 and Sean discussed about cash at closing.
 
