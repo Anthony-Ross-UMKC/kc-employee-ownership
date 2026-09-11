@@ -25,13 +25,16 @@ So the first job on this call is finding out where the money actually goes.
 
 ## What we are actually after
 
-Whether the document set in a small employee-ownership transaction can be standardized far
-enough to compress transaction costs — the way standardized documentation made CLOs
-underwritable in bulk, and the way CarMax turned a bespoke negotiation into a repeatable
-process with a financing engine behind it.
+Whether a small employee-ownership transaction can be made repeatable enough to be financed
+at scale — the way standardized documentation made pools of leveraged loans underwritable,
+and the way CarMax turned a bespoke negotiation into a repeatable process with a financing
+engine behind it. Neither of those was mainly about cheaper paperwork.
 
-The question underneath all of these: **which parts of one of these deals are genuinely
-deal-specific, and which are bespoke only because nobody has standardized them?**
+Two questions underneath all of these:
+
+- **Where does the cost actually sit, and what would it take to move it?**
+- **Which parts of one of these deals are genuinely deal-specific, and which are bespoke only
+  because nobody has standardized them?**
 
 ---
 
@@ -67,8 +70,8 @@ deal-specific, and which are bespoke only because nobody has standardized them?*
 
 ## Thresholds
 
-13. Where does a leveraged ESOP start to pencil — EBITDA, headcount, or something else? And
-    what would that number become if the documents were standardized?
+13. Where does a leveraged ESOP start to pencil — EBITDA, headcount, or something else? What
+    would actually have to change to move that number down, if anything could?
 14. What tells you early that a company isn't a candidate?
 
 ## The line we have to stay on
