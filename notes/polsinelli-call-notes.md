@@ -215,30 +215,33 @@ reach out anytime. I'm happy to come talk to people."
 
 ---
 
-## What this changes
+## Questions this raises for the team
 
-1. **Drop "standardization lowers seller cost."** It is not supported, and the person best
-   placed to know says ESOPs already cost less than the alternative.
-2. **Standardization still has a real buyer — the practitioners.** A 50-to-100-lawyer national
-   bar that is capacity-constrained, and says savings get passed through. That is a different
-   and more defensible value proposition.
-3. **The scope is narrower and now specified.** Seller financing documents (~10% variable) and
-   the loan and pledge / internal loan documents (10–15%) are the standardizable surface. The
-   stock purchase agreement is 60% boilerplate but genuinely deal-specific at the margin. Senior
-   debt documents are off the table entirely.
-4. **Awareness and advisor incentives are the barrier he actually believes in.** If the project
-   wants to move the number of ESOPs, that is where the leverage is — and it is closer to the
-   original website idea than to form standardization, though for a completely different reason
-   than we first had.
-5. **The cash-at-closing gap is the real economic problem**, and he says serious money has
-   already failed at it. Worth knowing before anyone proposes solving it in a semester.
+These are for the group to decide, not settled. Listed because the call bears on each one.
+
+- **Is transaction cost still the problem we are working on?** Sean says an ESOP already costs
+  less than the third-party sale an owner would otherwise do. If that is right, what does
+  lowering cost accomplish?
+- **If standardization is worth doing, who is it for?** He described his own group as
+  capacity-constrained and said efficiency gains get passed through. That is a different buyer
+  than the seller we had assumed, and it may or may not be the one we want to serve.
+- **How much of the document set is actually worth attacking?** His numbers put seller notes
+  around 10% variable and the stock purchase agreement around 40%, with the plan document
+  already automated and senior debt documents unavailable. Whether that residue is worth a
+  semester is a judgment call.
+- **Is awareness the more promising target?** It is the barrier he believes in, and he
+  described a specific failure point in the advisor chain. It is also closer to what we
+  originally sketched, for entirely different reasons.
+- **Does the cash-at-closing gap belong in scope at all?** It is the real economic constraint
+  he named, Absher has already been working on it, and Sean says serious money has failed at
+  it. That cuts both ways.
 
 ## Follow-ups
 
 - Send the thank-you and make it easy for him to send the checklist and the deck.
 - Ask Absher what he and Sean discussed about cash at closing — Sean referenced it directly and
   Absher has history on it.
-- NCEO has reportedly worked the small-company problem "for years, maybe decades." Check what
-  already exists before building anything.
-- Look at EFS / Kelly on the hourly-versus-success-fee distinction in sell-side advisory.
-- Nobody has asked a lender anything yet. That gap is now the most conspicuous one.
+- NCEO has reportedly worked the small-company problem "for years, maybe decades." Worth
+  knowing what already exists.
+- EFS / Kelly on the hourly-versus-success-fee distinction in sell-side advisory.
+- We have not spoken to a lender, a trustee, or an owner who has been through one.
