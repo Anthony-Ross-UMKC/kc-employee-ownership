@@ -10,6 +10,19 @@ good lead, not a citation.
 
 ---
 
+## What he has already told us
+
+In his reply confirming the call (Sept 10), Sean flagged: **"the legal cost to prepare the
+documents is only a small portion of the overall costs of a transaction."**
+
+Take that seriously. If document preparation is a small share, standardizing documents does
+not move the cost floor much on its own, and the thesis has to shift: standardization would
+matter because it makes these deals **underwritable**, not because it makes them cheaper to
+paper. That is closer to what actually happened with CLOs — standardized documentation did not
+reduce drafting cost, it made pools of loans poolable and financeable.
+
+So the first job on this call is finding out where the money actually goes.
+
 ## What we are actually after
 
 Whether the document set in a small employee-ownership transaction can be standardized far
@@ -22,30 +35,32 @@ deal-specific, and which are bespoke only because nobody has standardized them?*
 
 ---
 
+## Where the money actually goes — start here
+
+1. If document preparation is a small share, what are the big ones? Valuation, trustee fees,
+   lender counsel, diligence, tax structuring, the feasibility study — roughly how does the
+   total break down on a small deal?
+2. Which of those is most resistant to being brought down, and why?
+3. Is any of it driven by things that are the same in every deal, or is it all genuinely
+   deal-specific work?
+4. On a deal that dies before closing, where had the money already gone?
+
 ## The document set
 
-1. What documents actually move in a transaction taking a closely held business to an ESOP,
+5. What documents actually move in a transaction taking a closely held business to an ESOP,
    start to close? We want the inventory, not the summary.
-2. Of those, which come out substantially the same every time?
-3. Where does the real tailoring live? And is it tailoring the facts require, or tailoring
+6. Of those, which come out substantially the same every time?
+7. Where does the real tailoring live — and is it tailoring the facts require, or tailoring
    because every firm works from its own precedent?
-4. Does a standard form set exist anywhere — NCEO, an ABA section, a lender's package? Or
-   does every shop start from its own?
+8. Does a standard form set exist anywhere — NCEO, an ABA section, a lender's package? Or does
+   every shop start from its own?
 
-## Where the money goes
-
-5. Which documents or steps consume the most hours? We keep seeing 2–4% of deal value
-   starting around $80,000, but not where inside that the cost actually sits.
-6. If the document set were standardized, what would realistically happen to that floor —
-   and what would be left over?
-7. What cannot be standardized at any price? Valuation, trustee judgment, something else?
-8. How much of the cost is document production, versus negotiation, versus diligence?
-
-## Doing these at volume
+## Doing these at volume — the part that may matter most
 
 9. Has anyone tried to originate these at volume off a standard document set?
-10. What would a lender need to see before underwriting a portfolio of these rather than one
-    deal at a time?
+10. What would a lender need to see before underwriting a **portfolio** of these rather than
+    one deal at a time? If standardization buys anything, our guess is that it buys this — and
+    we would like to know whether that guess is wrong.
 11. Where would that model break first — DOL scrutiny, trustee independence, valuation
     variability, something we have not thought of?
 12. Does standardization make the Department of Labor more comfortable, or less?
