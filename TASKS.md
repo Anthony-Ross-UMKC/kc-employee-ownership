@@ -53,6 +53,12 @@ these files should be published or presented until someone has read the sources.
 
 ## Finished
 
+### Source-checking and advice-review instructions for Claude
+**Covers:** the two checks Claude runs when someone asks for a source to check
+(`verify-source`) or asks whether wording reads as legal advice (`upl-check`). They live in
+`.claude/skills/`. Any change to how either check works belongs here.
+*Anthony, September 12.*
+
 ### Set up the project so all four of us can work on it at once
 **Covers:** the repository, working rules, onboarding guide, and shared task and source
 tracking.
