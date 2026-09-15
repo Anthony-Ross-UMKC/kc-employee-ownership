@@ -43,6 +43,17 @@ tools actually do), and `notes/regulatory-landscape.md` (whether the rules could
 **Nobody has verified a single citation yet** — that is the remaining work, and nothing from
 these files should be published or presented until someone has read the sources.
 
+### What makes a company a good ESOP candidate
+`In progress` · Anthony, September 15
+**Covers:** the criteria that decide whether a company is a plausible ESOP candidate: financial
+(profitability, EBITDA, debt capacity, covered payroll), organizational (a finance function, an HR
+function, management depth), owner objectives (fair price and legacy versus maximum cash, willingness
+to carry a seller note), and structural choices (1042 or not, seller or bank financing, partial or
+full sale). Also covers disqualifiers, the compliance and carry-cost thresholds that rule small
+companies out, where companies most often fall short on preparation, and what existing screening and
+intake tools already ask. This is the foundation for the tool being built for Prof. Absher's fund, and
+it applies to both the owner-facing and practitioner-facing sides.
+
 ---
 
 ## Unassigned
