@@ -65,7 +65,7 @@ full sale). Also covers disqualifiers, the compliance and carry-cost thresholds 
 companies out, where companies most often fall short on preparation, and what existing screening and
 intake tools already ask. This is the foundation for the tool being built for Prof. Absher's fund, and
 it applies to both the owner-facing and practitioner-facing sides.
-*Anthony, September 15. The research was done in a separate session; its memo is not in `notes/` yet.*
+*Anthony, September 15. Memo: `notes/esop-candidate-research.md`.*
 
 ### Source-checking and advice-review instructions for Claude
 **Covers:** the two checks Claude runs when someone asks for a source to check
