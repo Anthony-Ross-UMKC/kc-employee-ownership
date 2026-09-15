@@ -246,8 +246,11 @@ for *their* situation.
   files per year (2015: ~18; 2017: ~21; 2021: 6; 2024: 14), and states in its own annual
   reports that it focuses on "widespread consumer fraud" and is "only authorized to seek a
   civil injunction." **The private treble-damages class action is the real enforcement
-  engine** — *Eisel*, *Carpenter*, *Janson*, and *McKeage v. TMBC* (~$7.35M untrebled, ~$2.4M
-  in fees shifted).
+  engine** — *Eisel*, *Carpenter*, *Janson*, and *McKeage v. TMBC*, 847 F.3d 992 (8th Cir. 2017)
+  (affirming summary judgment for the class; the district court had awarded $2,425,359.42 in fees
+  from the common fund, 33% of the class's untrebled damages), and 943 F.3d 1148 (8th Cir. 2019)
+  (captioned *McKeage v. Bass Pro Outdoor World*; affirming $2,398,353.09 in attorney's fees
+  shifted to the defendant on remand).
 
 ## Still unretrieved, worth a manual look
 
