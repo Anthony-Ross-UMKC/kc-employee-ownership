@@ -63,9 +63,16 @@ function, management depth), owner objectives (fair price and legacy versus maxi
 to carry a seller note), and structural choices (1042 or not, seller or bank financing, partial or
 full sale). Also covers disqualifiers, the compliance and carry-cost thresholds that rule small
 companies out, where companies most often fall short on preparation, and what existing screening and
-intake tools already ask. This is the foundation for the tool being built for Prof. Absher's fund, and
-it applies to both the owner-facing and practitioner-facing sides.
-*Anthony, September 15. Memo: `notes/esop-candidate-research.md`.*
+intake tools already ask. Also covers how ESOPs fail and which warning signs are visible before a deal,
+the case critics make against ESOPs, what lenders and trustees require, deal data for the $5–20M
+range, and the tax, ERISA, and SBA rules that bear on fit (§ 1042, § 409(p), contribution and
+deduction limits, SBA 7(a) loans to ESOPs). This is the foundation for the tool being built for Prof.
+Absher's fund, and it applies to both the owner-facing and practitioner-facing sides.
+*Anthony, September 15. Memo: `notes/esop-candidate-research.md`. A second round of research the same
+day (research papers, critics, failure cases, lenders and the $5–20M market, primary legal sources)
+found errors in six legal points in that memo: Herman, Cunningham v. Cornell, § 1042, § 409(p), the
+payroll limit, and SBA's citizenship rule. The memo in `notes/` has not been corrected yet, so don't
+rely on those points.*
 
 ### Source-checking and advice-review instructions for Claude
 **Covers:** the two checks Claude runs when someone asks for a source to check
