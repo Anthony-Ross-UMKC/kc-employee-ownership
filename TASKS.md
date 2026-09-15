@@ -33,26 +33,18 @@ collecting the due diligence checklist and ESOP 101 deck he offered, and asking 
 and Sean discussed about cash at closing.
 
 ### Where the unauthorized practice line is
-`In progress` · Anthony, September 9 — research landed; needs verification by a person
+`In progress` · Anthony, September 9 — citations checked against source text; needs review by a person
 **Covers:** how far the intake can go before it becomes legal advice, and what that means for
 the wording of every result. Missouri authority — Mo. Rev. Stat. 484.010 and 484.020, Janson
 v. LegalZoom (W.D. Mo.) — plus how comparable public legal-information tools are structured.
 Anything about UPL, disclaimers, or advice-versus-information belongs here. Findings are in
 `notes/upl-research.md` (the legal analysis), `notes/tool-design-guidance.md` (what comparable
 tools actually do), and `notes/regulatory-landscape.md` (whether the rules could be changed).
-**Nobody has verified a single citation yet** — that is the remaining work, and nothing from
-these files should be published or presented until someone has read the sources.
-
-### What makes a company a good ESOP candidate
-`In progress` · Anthony, September 15
-**Covers:** the criteria that decide whether a company is a plausible ESOP candidate: financial
-(profitability, EBITDA, debt capacity, covered payroll), organizational (a finance function, an HR
-function, management depth), owner objectives (fair price and legacy versus maximum cash, willingness
-to carry a seller note), and structural choices (1042 or not, seller or bank financing, partial or
-full sale). Also covers disqualifiers, the compliance and carry-cost thresholds that rule small
-companies out, where companies most often fall short on preparation, and what existing screening and
-intake tools already ask. This is the foundation for the tool being built for Prof. Absher's fund, and
-it applies to both the owner-facing and practitioner-facing sides.
+**The citations in `notes/upl-research.md` were checked against the source text on September
+15.** Quotes and holdings match. The one error found, the *McKeage* fee figures, has been
+corrected. A person still needs to review the citations before anything is published or
+presented. Not yet checked: most pinpoint pages, the *Janson* settlement dates, Rules 13 and
+5.30, and every citation in the other two files.
 
 ---
 
@@ -63,6 +55,17 @@ it applies to both the owner-facing and practitioner-facing sides.
 ---
 
 ## Finished
+
+### What makes a company a good ESOP candidate
+**Covers:** the criteria that decide whether a company is a plausible ESOP candidate: financial
+(profitability, EBITDA, debt capacity, covered payroll), organizational (a finance function, an HR
+function, management depth), owner objectives (fair price and legacy versus maximum cash, willingness
+to carry a seller note), and structural choices (1042 or not, seller or bank financing, partial or
+full sale). Also covers disqualifiers, the compliance and carry-cost thresholds that rule small
+companies out, where companies most often fall short on preparation, and what existing screening and
+intake tools already ask. This is the foundation for the tool being built for Prof. Absher's fund, and
+it applies to both the owner-facing and practitioner-facing sides.
+*Anthony, September 15. The research was done in a separate session; its memo is not in `notes/` yet.*
 
 ### Source-checking and advice-review instructions for Claude
 **Covers:** the two checks Claude runs when someone asks for a source to check
