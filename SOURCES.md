@@ -6,7 +6,7 @@ claim.
 This is meant to be chipped away at. Each line below is its own small job — pick one, spend
 ten minutes, move it. Nobody should ever sit down to "do the sources."
 
-**Progress: 0 verified · 0 being checked · 11 not yet checked · 0 could not be verified**
+**Progress: 0 verified · 1 being checked · 10 not yet checked · 0 could not be verified**
 
 Tell Claude *"give me a source to check"* and it will hand you one and record what you find.
 
@@ -26,7 +26,7 @@ Cleared for use on the site. Cite the source, not this file.
 
 | Claim | Who | Started |
 | ----- | --- | ------- |
-| *(nobody yet)* | | |
+| Section 1042 lets a selling shareholder defer capital gain | Camron | 2026-09-16 |
 
 ---
 
@@ -46,7 +46,6 @@ presentation until they move up to Verified.
 | 7 | 53% longer job tenure for ESOP participants | Project brief, citing NCEO |
 | 8 | Private ESOP firms roughly half as likely to go bankrupt | Project brief, citing NCEO |
 | 9 | DOL final valuation regulations on the agenda for November 2026 | Project brief |
-| 10 | Section 1042 lets a selling shareholder defer capital gain | Project brief — cite the statute directly |
 | 11 | An S corporation ESOP pays no federal income tax on the ESOP-owned share | Project brief — cite the statute directly |
 
 ---
