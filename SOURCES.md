@@ -6,7 +6,7 @@ claim.
 This is meant to be chipped away at. Each line below is its own small job — pick one, spend
 ten minutes, move it. Nobody should ever sit down to "do the sources."
 
-**Progress: 0 verified · 1 being checked · 10 not yet checked · 0 could not be verified**
+**Progress: 1 verified · 0 being checked · 10 not yet checked · 0 could not be verified**
 
 Tell Claude *"give me a source to check"* and it will hand you one and record what you find.
 
@@ -18,7 +18,7 @@ Cleared for use on the site. Cite the source, not this file.
 
 | Claim | Source | Checked by | Date |
 | ----- | ------ | ---------- | ---- |
-| *(none yet)* | | | |
+| Under IRC § 1042, an owner selling stock in a privately held domestic C corporation to an ESOP can defer capital gains tax if the ESOP ends up owning at least 30% of the company, the seller held the stock at least 3 years, and the seller reinvests the proceeds into qualifying replacement property. It does not apply to stock acquired through an employee stock option or a retirement plan distribution. | 26 U.S.C. § 1042(a)–(c)(1), https://www.law.cornell.edu/uscode/text/26/1042 | Camron | 2026-09-17 |
 
 ---
 
@@ -26,7 +26,7 @@ Cleared for use on the site. Cite the source, not this file.
 
 | Claim | Who | Started |
 | ----- | --- | ------- |
-| Section 1042 lets a selling shareholder defer capital gain | Camron | 2026-09-16 |
+| *(nobody yet)* | | |
 
 ---
 
